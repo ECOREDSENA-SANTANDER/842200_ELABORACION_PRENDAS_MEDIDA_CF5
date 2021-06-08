@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="241.483" height="350.357" viewBox="0 0 241.483 350.357">
+  <g id="Grupo_58880" data-name="Grupo 58880" transform="translate(-2772.853 -540.63)">
+    <path id="Trazado_108845" data-name="Trazado 108845" d="M2772.853,600.384s18.108,68.97,21.963,91.638c5.233,30.779,14.6,123.014,14.6,123.014s30.012-1.8,38.733-2.308c36.28-2.091,42.844,4.039,42.844,4.039s11.5-2.452,15.435-2.452c3.1,0,12.839,1.8,12.839,1.8a95.237,95.237,0,0,1,27.12-2.813c6.595.248,27.986,2.741,27.986,2.741s9.891-91.613,15.832-122.4c4.445-23.037,24.126-92.179,24.126-92.179s-39.932-19.175-52.734-27.18c-16.494-10.313-43.36-34.663-70.171-33.624-27.914,1.082-55.676,19.429-67.512,34.189C2805.527,597.787,2772.853,600.384,2772.853,600.384Z" fill="#8c757e"/>
+    <rect id="Rectángulo_6549" data-name="Rectángulo 6549" width="135.456" height="34.405" transform="translate(2824.568 856.582)" fill="#8c757e"/>
+    <path id="Trazado_108848" data-name="Trazado 108848" d="M2937.756,813.373V743.918l6.617-7.646,7.069,7.79-.578,69.541" fill="#8c757e" stroke="#515150" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="Grupo_58878" data-name="Grupo 58878">
+      <circle id="Elipse_4103" data-name="Elipse 4103" cx="3.231" cy="3.231" r="3.231" transform="translate(2941.367 780.036)" fill="#8c757e" stroke="#333" stroke-miterlimit="10" stroke-width="0.75"/>
+      <line id="Línea_209" data-name="Línea 209" y2="8.292" transform="translate(2944.598 779.155)" fill="none" stroke="#333" stroke-miterlimit="10" stroke-width="0.75"/>
+      <line id="Línea_210" data-name="Línea 210" x1="1.967" transform="translate(2943.615 779.009)" fill="none" stroke="#333" stroke-miterlimit="10" stroke-width="0.75"/>
+      <line id="Línea_211" data-name="Línea 211" x1="1.967" transform="translate(2943.615 787.448)" fill="none" stroke="#333" stroke-miterlimit="10" stroke-width="0.75"/>
+      <line id="Línea_212" data-name="Línea 212" x1="3.621" transform="translate(2942.788 783.267)" fill="none" stroke="#333" stroke-miterlimit="10" stroke-width="0.75"/>
+    </g>
+    <g id="Grupo_58879" data-name="Grupo 58879">
+      <circle id="Elipse_4104" data-name="Elipse 4104" cx="3.231" cy="3.231" r="3.231" transform="translate(2826.638 870.592)" fill="#8c757e" stroke="#4c4c4c" stroke-miterlimit="10" stroke-width="0.75"/>
+      <line id="Línea_213" data-name="Línea 213" y2="8.292" transform="translate(2829.87 869.712)" fill="none" stroke="#4c4c4c" stroke-miterlimit="10" stroke-width="0.75"/>
+      <line id="Línea_214" data-name="Línea 214" x1="1.967" transform="translate(2828.886 869.565)" fill="none" stroke="#4c4c4c" stroke-miterlimit="10" stroke-width="0.75"/>
+      <line id="Línea_215" data-name="Línea 215" x1="1.967" transform="translate(2828.886 878.004)" fill="none" stroke="#4c4c4c" stroke-miterlimit="10" stroke-width="0.75"/>
+      <line id="Línea_216" data-name="Línea 216" x1="3.621" transform="translate(2828.059 873.823)" fill="none" stroke="#4c4c4c" stroke-miterlimit="10" stroke-width="0.75"/>
+    </g>
+  </g>
+</svg>
