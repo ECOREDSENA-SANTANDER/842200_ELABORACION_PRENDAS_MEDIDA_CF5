@@ -27,7 +27,7 @@
     p.mb-4 Para iniciar el trazo de la base inferior del pantalón masculino, se deben tomar las siguientes medidas.
 
     .row.mb-4
-      .col-12.col-md-6.mb-4.mb-md-0
+      .col-12.col-md-7.mb-4.mb-md-0
         p.mb-4
           strong Tabla 1.
           | Medidas del pantalón masculino
@@ -50,7 +50,7 @@
               tr
                 td.text-center Tipo de papel sugerido
                 td.text-center Cartón cartulina o cartulina
-      .col-12.col-md-6.mb-4.mb-md-0
+      .col-12.col-md-5.mb-4.mb-md-0
         p.mb-4 Para hacer el trazo del pantalón en cualquier línea es necesario tener en cuenta el funcionamiento y sus características:
         .cajon.color-acento-contenido.d-flex.p-4.mb-4
           p La base del pantalón sale en plano montado trazando primero la parte delantera y sobre el delantero trazando el posterior. Esto se debe a que varias de las medidas curvas y demás son tomadas de la referencia del trazo del delantero.
@@ -65,10 +65,10 @@
           .h4 Figura 7
           p Pantalón base
         .tarjeta.color-acento-contenido
-          img(src="@/assets/curso/tema3/img02.svg")
+          img(src="@/assets/curso/tema3/img02.png")
 
       .col-12.col-md-8.mb-4
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo3_Estilo_Masculino.pdf')" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -81,7 +81,7 @@
       
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Py0Nfzckd-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     hr
     #t_3_2.titulo-segundo
@@ -95,14 +95,14 @@
           .h4 Figura 8
           p Pantalón clásico masculino
         .tarjeta.color-acento-contenido
-          img(src="@/assets/curso/tema3/img03.svg")
+          img(src="@/assets/curso/tema3/img03.png")
     
     p.mb-4 Teniendo en cuenta que el desarrollo del trazo del pantalón clásico sale desde el básico o la base inferior, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño desde cero.
     p.mb-4 Para el trazo del plano desde los básicos, se debe iniciar trazando una línea de referencia; en el caso de las bases inferiores de pantalón, se traza una línea de manera horizontal en el papel, sobre la cual quedará alineados o aplomados desde la línea base de construcción; en prendas inferiores, la línea de aplome o línea base será la línea de altura de cadera o tiro.
 
     .row.justify-content-center.mb-
       .col-12.col-md-8.mb-4
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo3_Estilo_Masculino.pdf')" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -111,7 +111,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Py0Nfzckd-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     hr
     #t_3_3.titulo-segundo
@@ -125,17 +125,17 @@
           .h4 Figura 9
           p Pantalón tipo jean slim fito
         .tarjeta.color-acento-contenido
-          img(src="@/assets/curso/tema3/img04.svg")
+          img(src="@/assets/curso/tema3/img04.png")
 
     p.mb-4 Para el trazo del plano desde los básicos se debe iniciar trazando una línea de referencia, en el caso de las bases inferiores de pantalón se traza una línea de manera horizontal en el papel, sobre la cual quedará alineados o aplomados desde la línea base de construcción; en prendas inferiores, la línea de aplome o línea base será la línea de altura de cadera o tiro.
 
     figure.mb-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/RE-fVkNZIOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center.mb-
       .col-12.col-md-8.mb-4
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo3_Estilo_Masculino.pdf')" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

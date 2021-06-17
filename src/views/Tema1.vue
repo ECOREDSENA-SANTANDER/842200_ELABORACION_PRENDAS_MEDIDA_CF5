@@ -188,13 +188,19 @@
               ul.lista-ul--color
                 li 
                   i.lista-ul__vineta
-                  | Pantalón: largo de pantalón.
+                  p 
+                    strong Pantalón: 
+                    | largo de pantalón.
                 li 
                   i.lista-ul__vineta
-                  | Falda: altura de rodilla.
+                  p 
+                   strong Falda: 
+                   | altura de rodilla.
                 li 
                   i.lista-ul__vineta
-                  | Superior: largo de talle posterior.
+                  p 
+                    strong Superior: 
+                    | largo de talle posterior.
           hr
           hr
           .row.justify-content-center
@@ -284,14 +290,14 @@
           img(src="@/assets/curso/tema1/img20.svg")
         p.mb-4 Lo primero a tener en cuenta para realizar la base superior es el manejo de los básicos dependiendo del tipo de silueta, en este caso se sugiere trabajar el básico de silueta Slim fit. Para iniciar, se debe trazar una línea de manera horizontal en el papel, sobre el que quedarán alineados o aplomados como línea base de construcción; en prendas superiores la línea de aplome o línea base será la línea de profundidad de sisa.
         .col-12.col-md-5.mb-4.mb-md-0
-          a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo3_Estilo_Masculino.pdf')" target="_blank")
+          a.anexo.mb-4.mb-lg-0(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-pdf.svg")
             .anexo__texto
               strong Manual de patronaje básico e interpretación de diseños 
               | Conoce el esquema del patrón base masculino clásico y Slim fit (ver páginas 65 a 67).
         .col-12.col-md-5.mb-4.mb-md-0
-          a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+          a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?app=desktop&v=rximz1xBJM8&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
