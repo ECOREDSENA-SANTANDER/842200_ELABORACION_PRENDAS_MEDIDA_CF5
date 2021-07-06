@@ -11,7 +11,7 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/mHn4cjPKOUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-4 A partir de la implementación del concepto básico de patrones, se estudia el desarrollo y modificación de los moldes, se analizan las distintas prendas que componen la indumentaria masculina y se crean, según la forma del cuerpo, con medidas y formas correspondientes de cada cliente. En este punto, se debe considerar comprender, explicar, apropiar y analizar los conocimientos técnicos, convenciones, procesamiento de reglas, composición de curvas y partes que se utilizarán. El análisis principal del cuerpo y la estructura son los componentes básicos para el desarrollo del molde básico.
 
