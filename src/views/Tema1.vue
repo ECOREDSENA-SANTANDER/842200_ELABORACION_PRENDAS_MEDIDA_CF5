@@ -70,7 +70,7 @@
 
     .row.justify-content-center.mb-5
       .col-12.col-md-6
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Manual_patronaje_basico.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
