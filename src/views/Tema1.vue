@@ -8,16 +8,15 @@
         span 1
       h1 La forma y lo masculino
 
-    .row.justify-content-center.mb-4
-      .col-10.col-md-6
-        figure
-          img(src='@/assets/curso/tema1/img01.png', alt='La forma y lo masculino')
-    
-    .row.justify-content-center.mb-5 
-      .col-12.col-md-8
+    .row.justify-content-center.align-items-center
+      .col-lg-7.col-md-8
         .cajon.color-primario.p-4.mb-4
           p La forma se relaciona directamente con el patrón y su desarrollo para llegar a ser una prenda, pero se debe resaltar que la importancia no radica en el producto, sino en el cliente, para ello se debe ofrecer comodidad desde un análisis de su cuerpo y entender cómo es su relación con lo que viste, por esto es importante conocer algo de historia y los personajes más influyentes para lograr acompañarlo en un proceso de asesoría.
-    
+      .col-lg-5.col-md-6
+        figure
+          img(src='@/assets/curso/tema1/img01.png', alt='La forma y lo masculino')
+
+      
     hr
     #t_1_1.titulo-segundo
       .h4 1.1 Biotipos masculinos y morfología
@@ -25,16 +24,10 @@
     p.mb-4 El biotipo masculino hace referencia al tipo de personalidad vinculado a una cierta estructura morfológica de un sujeto, es decir, es la forma del cuerpo y esto se determina por factores óseos, de masa muscular y metabólicos, que se clasifican en:
 
     .row.justify-content-center.mb-4
-      .col-4.col-md-2
+      .col-6
         figure
           img(src='@/assets/curso/tema1/img02.svg', alt='ectomorfos')
-      .col-4.col-md-2
-        figure
-          img(src='@/assets/curso/tema1/img03.svg', alt='mesomorfos')
-      .col-4.col-md-2
-        figure
-          img(src='@/assets/curso/tema1/img04.svg', alt='endomorfos')
-    
+      
     .row.justify-content-center.mb-5 
       .col-lg-8
         .cajon.color-acento-botones.p-4.mb-4
@@ -67,15 +60,23 @@
             .col-6
               img(src="@/assets/curso/tema1/img08.svg")
           p Son hombres de huesos grandes en longitud, además tienen cintura ancha y piernas densas.
-
-    .row.justify-content-center.mb-5
-      .col-12.col-md-6
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Manual_patronaje_basico.pdf')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            strong Manual de patronaje básico e interpretación de diseños
-            p Conoce la tabla de medidas estandarizada según estudio antropométrico masculino (ver página 64).
+    
+      .py-4
+      .row.align-items-center.justify-content-center(data-aos="flip-up")
+        .col-lg-10 
+          .tarjeta.tarjeta-descarga.color-verde.p-4.mb-5
+            .row.justify-content-around.align-items-center
+              .col-3.col-sm-2.col-lg-1
+                img(src="@/assets/curso/pdf.svg")  
+              .col 
+                .row.justify-content-between.align-items-center
+                  .col.mb-3.mb-sm-0
+                    strong Manual de patronaje básico e interpretación de diseños 
+                    .text-small Conoce la tabla de medidas estandarizada según estudio antropométrico masculino (ver página 64).
+                  .col-sm-auto
+                    a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Manual_patronaje_basico.pdf')" target="_blank")
+                      span Descargar
+                      i.fas.fa-download
     
     hr
     #t_1_2.titulo-segundo
@@ -83,19 +84,29 @@
     
     .row.justify-content-center.mb-5
       .col-12.col-md-10
-        .cajon.color-primario.p-4.mb-4
-          .row
-            .col-12.col-md-8.mb-4.mb-md-0
-              p.mb-4 Es importante entender cómo ha sido la adaptación del hombre y su relación con el vestuario masculino, por esto se debe realizar un recorrido corto por el siglo XX en la moda masculina. Para conocer esta relación se invita a leer el siguiente recurso:
+        .cajon.color-primario.mb-4
+          .row.align-items-center.justify-content-center
+            .col-md-7.mb-4.mb-md-0
+                p.px-4.mb-4 Es importante entender cómo ha sido la adaptación del hombre y su relación con el vestuario masculino, por esto se debe realizar un recorrido corto por el siglo XX en la moda masculina. Para conocer esta relación se invita a leer el siguiente recurso:
+            .col-md-5.mb-4.mb-md-0
+              img.desborde(src="@/assets/curso/tema1/img09.svg")
 
-              a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo1_Siglo_XX_Moda_Masculina.pdf')" target="_blank")
-                .anexo__icono
-                  img(src="@/assets/template/icono-pdf.svg")
-                .anexo__texto
-                  strong Siglo XX moda masculina
-                  p Conoce la evolución del vestuario masculino en la línea del tiempo por medio de un análisis de tipologías y su relación con la forma, el color y el estilo, ayudando a comprender por qué el hombre se viste de una manera específica.
-            .col-12.col-md-4.mb-4.mb-md-0
-              img(src="@/assets/curso/tema1/img09.svg")
+      .py-2
+      .row.align-items-center.justify-content-center(data-aos="flip-up")
+        .col-lg-10 
+          .tarjeta.tarjeta-descarga.color-verde.p-4.mb-5
+            .row.justify-content-around.align-items-center
+              .col-3.col-sm-2.col-lg-1
+                img(src="@/assets/curso/pdf.svg")  
+              .col 
+                .row.justify-content-between.align-items-center
+                  .col.mb-3.mb-sm-0
+                    p #[b Siglo XX moda masculina] 
+                      span.text-small Conoce la evolución del vestuario masculino en la línea del tiempo por medio de un análisis de tipologías y su relación con la forma, el color y el estilo, ayudando a comprender por qué el hombre se viste de una manera específica.
+                  .col-sm-auto
+                    a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Anexo1_Siglo_XX_Moda_Masculina.pdf')" target="_blank")
+                      span Descargar
+                      i.fas.fa-download
     
     hr
     #t_1_3.titulo-segundo
@@ -107,13 +118,21 @@
           .row
             .col-12.col-md-8.mb-4.mb-md-0
               p.mb-4 La moda masculina siempre ha sido influenciada fuertemente por los fenómenos sociales, políticos y económicos durante toda la historia, pero expresiones artísticas como la música, el cine, la televisión y el fútbol son grandes referentes en cuanto al vestuario masculino; hoy en día las redes sociales han desencadenado una propagación de nuevos estilos y propuestas interesantes para los clósets de los hombres. Para conocer esta relación se invita a hacer lectura del siguiente recurso:
-              a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo2_ Sociología_Cultura_Moda_Masculina.pdf')" target="_blank")
-                .anexo__icono
-                  img(src="@/assets/template/icono-pdf.svg")
-                .anexo__texto
-                  strong Sociología y cultura en la moda masculina
-                  p Conoce los personajes a través de la historia que han aportado al vestuario masculino y nuevos influenciadores del clóset para los hombres.
-            .col-12.col-md-4.mb-4.mb-md-0
+              .row.align-items-center.justify-content-center(data-aos="flip-up")
+                .tarjeta.tarjeta-descarga.color-naranja.p-2.mb-5
+                  .row.justify-content-around.align-items-center
+                    .col-3.col-sm-2.col-lg-1
+                      img(src="@/assets/curso/pdf.svg")  
+                    .col 
+                      .row.justify-content-between.align-items-center
+                        .col.mb-3.mb-sm-0
+                          strong Sociología y cultura en la moda masculina
+                          p Conoce los personajes a través de la historia que han aportado al vestuario masculino y nuevos influenciadores del clóset para los hombres.
+                        .col-sm-auto
+                          a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Anexo2_ Sociología_Cultura_Moda_Masculina.pdf')" target="_blank")
+                            span Descargar
+                            i.fas.fa-download
+            .col-12.col-md-4.mb-md-0
               img(src="@/assets/curso/tema1/img10.svg")
     
     hr
@@ -126,12 +145,20 @@
           .row
             .col-12.col-md-8.mb-4.mb-md-0
               p.mb-4 A la hora de vestir, los hombres suelen ser muy prácticos y, normalmente, llama la atención un común denominador: compran poco, pero buscando la calidad y el estilo. Precisamente, esta es la clave del fondo de armario masculino: todo el conjunto de prendas y complementos que se utilizan en cualquier ocasión o momento del año, que no pasan de moda y se caracterizan por ser prácticas y duraderas por su calidad y diseño. Para profundizar en lo anterior es importante leer el siguiente recurso:
-              a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo3_Estilo_Masculino.pdf')" target="_blank")
-                .anexo__icono
-                  img(src="@/assets/template/icono-pdf.svg")
-                .anexo__texto
-                  strong Estilo masculino
-                  p Conoce la guía básica como recurso de acompañamiento y asesoría para clientes masculinos, desde su personalidad hasta los cortes y colores apropiados.
+              .row.align-items-center.justify-content-center(data-aos="flip-up")
+                .tarjeta.tarjeta-descarga.color-naranja.p-2.mb-5
+                  .row.justify-content-around.align-items-center
+                    .col-3.col-sm-2.col-lg-1
+                      img(src="@/assets/curso/pdf.svg")  
+                    .col 
+                      .row.justify-content-between.align-items-center
+                        .col.mb-3.mb-sm-0
+                          strong Estilo masculino
+                          p Conoce la guía básica como recurso de acompañamiento y asesoría para clientes masculinos, desde su personalidad hasta los cortes y colores apropiados.
+                        .col-sm-auto
+                          a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Anexo3_Estilo_Masculino.pdf')" target="_blank")
+                            span Descargar
+                            i.fas.fa-download
             .col-12.col-md-4.mb-4.mb-md-0
               img(src="@/assets/curso/tema1/img11.svg")
 
@@ -146,78 +173,62 @@
         li
           .lista-ol--cuadro__vineta
             span.text-white a
-          p
-            strong Análisis prepatronaje: 
-            | el proceso de aprendizaje está diseñado para iniciar desde los patrones base que desencadenan una serie de moldes básicos. Siempre se comienza con el siguiente análisis:
+          strong Análisis prepatronaje: 
+              | el proceso de aprendizaje está diseñado para iniciar desde los patrones base que desencadenan una serie de moldes básicos. Siempre se comienza con el siguiente análisis:
     
-    .tarjeta.color-acento-contenido.p-4.p-md-5.mb-4
-      .row.justify-content-center
-        .col-10
+    .tarjeta.p-4.p-md-5.mb-4
+      .row.justify-content-between.align-items-center
+        .col-12
           hr
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-8.col-md-2.mb-4.mb-md-0
               img(src="@/assets/curso/tema1/img12.svg")
-            .col-12.col-md-10
+            .col-12.col-md-4
               .h5 Tipo de plano 
-              p Identificar qué tipo de plano se va a trabajar, si es un plano unido, separado o montado.
+              p.text-small Identificar qué tipo de plano se va a trabajar, si es un plano unido, separado o montado.
+            .col-8.col-md-2.mb-4.mb-md-0
+              img(src="@/assets/curso/tema1/img15.svg")
+            .col-12.col-md-4
+              .h5 Medida más larga a trabajar 
+              p.text-small El largo inicial del rectángulo se trabaja con la medida más larga de la parte del cuerpo a trabajar, por ejemplo:
+              ul.lista-ul--color
+                li 
+                  i.lista-ul__vineta.text-dark.text-small.sinespacio
+                    | Pantalón: largo de pantalón.
+                li 
+                  i.lista-ul__vineta.text-dark.text-small.sinespacio
+                    | Falda: altura de rodilla.
+                li 
+                  i.lista-ul__vineta.text-dark.text-small.sinespacio
+                    | Superior: largo de talle posterior.
           hr
           hr
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-8.col-md-2.mb-4.mb-md-0
               img(src="@/assets/curso/tema1/img13.svg")
-            .col-12.col-md-10
+            .col-12.col-md-4
               .h5 Rectángulo 
-              p Todo básico inicia siempre desde un rectángulo, el cual se traza con la medida de contorno más protuberante y el largo más largo de la parte del cuerpo a trabajar.
+              p.text-small Todo básico inicia siempre desde un rectángulo, el cual se traza con la medida de contorno más protuberante y el largo más largo de la parte del cuerpo a trabajar.
+            .col-8.col-md-2.mb-4.mb-md-0
+              img(src="@/assets/curso/tema1/img16.svg")
+            .col-12.col-md-4
+              h5 Medidas en el trazo 
+              p.text-small.mb-4 Las medidas que se trabajan en la metodología son deducidas, en algunos casos únicamente se saca del cuadro de talla la medida de contorno y largo; no se trabajan medidas como hombro, anchos, cuello y demás, pues estas salen por fórmula, o como se trabajó en temas anteriores, por medidas deducidas.
+              h6 En masculino la medida de cuello posterior equivale a: P/20 + 2,5
           hr
           hr
           .row.justify-content-center
             .col-8.col-md-2.mb-4.mb-md-0
               img(src="@/assets/curso/tema1/img14.svg")
-            .col-12.col-md-10
-              .h5 Medida más protuberante a trabajar 
-              p.mb-4 Por lo general, el manual trabaja con fórmulas o convenciones, en la mayoría de los casos la medida más protuberante es sustituida por una letra, por ejemplo, en masculino, el contorno de pecho (medida más protuberante de la cintura para arriba) equivale o es igual a la letra “P”.
-              strong P = contorno de pecho de la talla a trabajar
-          hr
-          hr
-          .row.justify-content-center
-            .col-8.col-md-2.mb-4.mb-md-0
-              img(src="@/assets/curso/tema1/img15.svg")
-            .col-12.col-md-10
-              .h5 Medida más larga a trabajar 
-              p El largo inicial del rectángulo se trabaja con la medida más larga de la parte del cuerpo a trabajar, por ejemplo:
-              ul.lista-ul--color
-                li 
-                  i.lista-ul__vineta
-                  p 
-                    strong Pantalón: 
-                    | largo de pantalón.
-                li 
-                  i.lista-ul__vineta
-                  p 
-                   strong Falda: 
-                   | altura de rodilla.
-                li 
-                  i.lista-ul__vineta
-                  p 
-                    strong Superior: 
-                    | largo de talle posterior.
-          hr
-          hr
-          .row.justify-content-center
-            .col-8.col-md-2.mb-4.mb-md-0
-              img(src="@/assets/curso/tema1/img16.svg")
-            .col-12.col-md-10
-              .h5 Medidas en el trazo 
-              p.mb-4 Las medidas que se trabajan en la metodología son deducidas, en algunos casos únicamente se saca del cuadro de talla la medida de contorno y largo; no se trabajan medidas como hombro, anchos, cuello y demás, pues estas salen por fórmula, o como se trabajó en temas anteriores, por medidas deducidas.
-              strong En masculino la medida de cuello posterior equivale a: P/20 + 2,5
-          hr
-          hr
-          .row.justify-content-center
+            .col-12.col-md-4
+              h5 Medida más protuberante a trabajar 
+              p.mb-4.text-small Por lo general, el manual trabaja con fórmulas o convenciones, en la mayoría de los casos la medida más protuberante es sustituida por una letra, por ejemplo, en masculino, el contorno de pecho (medida más protuberante de la cintura para arriba) equivale o es igual a la letra “P”.
+              h6 P = contorno de pecho de la talla a trabajar
             .col-8.col-md-2.mb-4.mb-md-0
               img(src="@/assets/curso/tema1/img17.svg")
-            .col-12.col-md-10
-              .h5 Manejo del papel 
-              p Por lo general el trazo de moldes se suele hacer con papel trazo o manifold, dicho papel tiene dos caras, una cara que al tacto es liso y visualmente brillante y otra que al tacto es corrugada y opaca, por lo general se recomienda trabajar por la parte corrugada con el fin de tener una mejor adhesión del grafito (lápiz) y de no permitir que rebote la luz, es recomendable trabajar en papel blanco con el fin de no cansar la vista y descansar la mente.
+            .col-12.col-md-4
+              h5 Manejo del papel 
+              p.text-small Por lo general el trazo de moldes se suele hacer con papel trazo o manifold, dicho papel tiene dos caras, una cara que al tacto es liso y visualmente brillante y otra que al tacto es corrugada y opaca, por lo general se recomienda trabajar por la parte corrugada con el fin de tener una mejor adhesión del grafito (lápiz) y de no permitir que rebote la luz, es recomendable trabajar en papel blanco con el fin de no cansar la vista y descansar la mente.
           hr
 
     .tarjeta.color-primario.p-3.p-md-3.mb-4
@@ -225,17 +236,15 @@
         li
           .lista-ol--cuadro__vineta
             span.text-white b
-          p
-            strong Siluetas: 
-            | el manejo de siluetas varía únicamente en las fórmulas, los pasos y guías serán las mismas.
-    
+          strong Siluetas: 
+              | el manejo de siluetas varía únicamente en las fórmulas, los pasos y guías serán las mismas.
+
     .tarjeta.color-primario.p-3.p-md-3.mb-4
       ol.lista-ol
         li
           .lista-ol--cuadro__vineta
             span.text-white c
-          p
-            strong Patrón base de camisa: 
+          strong Patrón base de camisa: 
             | para la construcción de patrones bases superiores y transformarlos en modelos masculinos listos para ser cortados en el material textil, se implementan una serie de pasos y desarrollos para obtener un resultado con precisión en las prendas finales, entre ellos:
       
     .tarjeta.color-acento-contenido.p-4.p-md-5.mb-4
@@ -274,8 +283,7 @@
         li
           .lista-ol--cuadro__vineta
             span.text-white d
-          p
-            strong Pasos detallados para realizar la base superior masculina: 
+          strong Pasos detallados para realizar la base superior masculina: 
             | cuando se habla de la base superior, es la copia de la horma del cuerpo partiendo del cuello hasta el largo que es ubicado entre la cintura y altura de cadera según el propósito del diseño, dicha base será la plantilla que se adecuará para convertirse en camisa, camiseta, chaqueta, chaleco, etc.
     
     .tarjeta.color-acento-contenido.p-4.p-md-5.mb-4
@@ -288,21 +296,41 @@
           strong Figura 2
           p Base masculino Slim fit
           img(src="@/assets/curso/tema1/img20.svg")
-        p.mb-4 Lo primero a tener en cuenta para realizar la base superior es el manejo de los básicos dependiendo del tipo de silueta, en este caso se sugiere trabajar el básico de silueta Slim fit. Para iniciar, se debe trazar una línea de manera horizontal en el papel, sobre el que quedarán alineados o aplomados como línea base de construcción; en prendas superiores la línea de aplome o línea base será la línea de profundidad de sisa.
-        .col-12.col-md-5.mb-4.mb-md-0
-          a.anexo.mb-4.mb-lg-0(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
-            .anexo__icono
-              img(src="@/assets/template/icono-pdf.svg")
-            .anexo__texto
-              strong Manual de patronaje básico e interpretación de diseños 
-              | Conoce el esquema del patrón base masculino clásico y Slim fit (ver páginas 65 a 67).
-        .col-12.col-md-5.mb-4.mb-md-0
-          a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?app=desktop&v=rximz1xBJM8&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
-            .anexo__icono
-              img(src="@/assets/template/icono-link.svg")
-            .anexo__texto
-              strong Base superior masculina slim fit 
-              | Conoce el paso a paso para la elaboración del molde base con forma Slim fit.
+        p.mb-4.py-4 Lo primero a tener en cuenta para realizar la base superior es el manejo de los básicos dependiendo del tipo de silueta, en este caso se sugiere trabajar el básico de silueta Slim fit. Para iniciar, se debe trazar una línea de manera horizontal en el papel, sobre el que quedarán alineados o aplomados como línea base de construcción; en prendas superiores la línea de aplome o línea base será la línea de profundidad de sisa.
+        
+    .py-4
+    .row.align-items-center.justify-content-center(data-aos="flip-up")
+      .col-lg-10 
+        .tarjeta.tarjeta-descarga.color-naranja.p-4.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/pdf.svg")  
+            .col 
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h6 Manual de patronaje básico e interpretación de diseños
+                  p.text-small Conoce el esquema del patrón base masculino clásico y Slim fit (ver páginas 65 a 67).
+                .col-sm-auto
+                  a.boton.color-secundario.texto-blanco(:href="obtenerLink('https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1')" target="_blank")
+                    span Descargar
+                    i.fas.fa-download
+
+    .row.align-items-center.justify-content-center(data-aos="flip-up")
+      .col-lg-10 
+        .tarjeta.tarjeta-descarga.color-verde.p-4.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/video.svg")  
+            .col 
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h6 Base superior masculina slim fit
+                  p.text-small Conoce el esquema del patrón base masculino clásico y Slim fit (ver páginas 65 a 67).Conoce el paso a paso para la elaboración del molde base con forma Slim fit.
+                .col-sm-auto 
+                  a.boton.color-secundario.texto-blanco(:href="obtenerLink('https://www.youtube.com/watch?app=desktop&v=rximz1xBJM8&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
+                    span Ver video
+                    i.fas.fa-video
+            
         
 </template>
 

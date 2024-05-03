@@ -5,6 +5,20 @@ export default {
       'Este componente formativo aborda las temáticas en levantamiento de patrones básicos de patronaje masculino y desarrollos de moldería. Se analizará la relación del cuerpo masculino con las prendas que usa y cómo converge su diálogo.<br><br> En concordancia, se vivenciarán desafíos del análisis, interpretación, precisión, adaptación y transformación según el material textil, la intencionalidad de uso y otros elementos como insumos y avíos con el objeto de efectuar la experimentación de la forma y la silueta.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-1.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-3.png'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [
@@ -120,6 +134,11 @@ export default {
       },
     ],
     subMenu: [
+      {
+        nombreRuta: 'sintesis',
+        icono: 'fas fa-sitemap',
+        titulo: 'Sintesis',
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
