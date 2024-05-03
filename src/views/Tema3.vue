@@ -31,7 +31,7 @@
         p.mb-4
           strong Tabla 1.
           | Medidas del pantalón masculino
-        .tabla-b.color-secundario.mb-4
+        .tabla-b.mb-4
           table
             thead
               tr
@@ -64,16 +64,27 @@
         .tarjeta.color-primario.p-4.p-md-3
           .h4 Figura 7
           p Pantalón base
-        .tarjeta.color-acento-contenido
+        .tarjeta.verde-clarito
           img(src="@/assets/curso/tema3/img02.png")
 
-      .col-12.col-md-8.mb-4
-        a.anexo.mb-4.mb-lg-0(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            strong Manual de patronaje básico e interpretación de diseños
-            p Conocimiento sobre la creación de molde base inferior masculino (ver página 78).
+
+    .py-2
+    .row.align-items-center.justify-content-center(data-aos="flip-up")
+      .col-lg-10 
+        .tarjeta.tarjeta-descarga.color-naranja.p-4.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/pdf.svg")  
+            .col 
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p #[b Manual de patronaje básico e interpretación de diseños] 
+                    span Conocimiento sobre la creación de molde base inferior masculino (ver página 78).
+                .col-sm-auto
+                  a.boton.color-secundario.texto-blanco(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
+                    span Descargar
+                    i.fas.fa-download
+
 
       .col-12.col-md-8.mb-4
         .cajon.color-acento-contenido.p-4.mb-4
@@ -100,14 +111,23 @@
     p.mb-4 Teniendo en cuenta que el desarrollo del trazo del pantalón clásico sale desde el básico o la base inferior, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño desde cero.
     p.mb-4 Para el trazo del plano desde los básicos, se debe iniciar trazando una línea de referencia; en el caso de las bases inferiores de pantalón, se traza una línea de manera horizontal en el papel, sobre la cual quedará alineados o aplomados desde la línea base de construcción; en prendas inferiores, la línea de aplome o línea base será la línea de altura de cadera o tiro.
 
-    .row.justify-content-center.mb-
-      .col-12.col-md-8.mb-4
-        a.anexo.mb-4.mb-lg-0(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            strong Manual de patronaje básico e interpretación de diseños
-            p Conoce sobre la creación del trazo del pantalón clásico masculino (ver página 79).
+    .py-2
+    .row.align-items-center.justify-content-center(data-aos="flip-up")
+      .col-lg-10 
+        .tarjeta.tarjeta-descarga.color-naranja.p-4.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/pdf.svg")  
+            .col 
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p #[b Manual de patronaje básico e interpretación de diseños] 
+                    span Conoce sobre la creación del trazo del pantalón clásico masculino (ver página 79).
+                .col-sm-auto
+                  a.boton.color-secundario.texto-blanco(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
+                    span Descargar
+                    i.fas.fa-download
+
 
     figure.mb-5
       .video
@@ -124,7 +144,7 @@
         .tarjeta.color-primario.p-4.p-md-3
           .h4 Figura 9
           p Pantalón tipo jean slim fito
-        .tarjeta.color-acento-contenido
+        .tarjeta.verde-clarito
           img(src="@/assets/curso/tema3/img04.png")
 
     p.mb-4 Para el trazo del plano desde los básicos se debe iniciar trazando una línea de referencia, en el caso de las bases inferiores de pantalón se traza una línea de manera horizontal en el papel, sobre la cual quedará alineados o aplomados desde la línea base de construcción; en prendas inferiores, la línea de aplome o línea base será la línea de altura de cadera o tiro.
@@ -133,14 +153,22 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/RE-fVkNZIOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .row.justify-content-center.mb-
-      .col-12.col-md-8.mb-4
-        a.anexo.mb-4.mb-lg-0(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            strong Manual de patronaje básico e interpretación de diseños.
-            p Conoce sobre la creación del trazo del pantalón tipo jean slim fit masculino (ver página 80).
+    .py-2
+    .row.align-items-center.justify-content-center(data-aos="flip-up")
+      .col-lg-10 
+        .tarjeta.tarjeta-descarga.color-naranja.p-4.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/pdf.svg")  
+            .col 
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p #[b Manual de patronaje básico e interpretación de diseños.] 
+                    span Conoce sobre la creación del trazo del pantalón tipo jean slim fit masculino (ver página 80).
+                .col-sm-auto
+                  a.boton.color-secundario.texto-blanco(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
+                    span Descargar
+                    i.fas.fa-download
 
 </template>
 

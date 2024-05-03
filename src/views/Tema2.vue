@@ -18,8 +18,8 @@
         .tarjeta.color-primario.p-4.p-md-3
           .h4 Figura 3
           p Transformación de base a camisa masculino Slim fit
-        .tarjeta.color-acento-contenido
-          img(src="@/assets/curso/tema2/img02.svg")
+        .tarjeta.verde-clarito
+          img(src="@/assets/curso/tema2/img02.png")
     
     hr
     #t_2_1.titulo-segundo
@@ -32,8 +32,8 @@
         .tarjeta.color-primario.p-4.p-md-3
           .h4 Figura 4
           p Camisa clásica
-        .tarjeta.color-acento-contenido
-          img(src="@/assets/curso/tema2/img03.svg") 
+        .tarjeta.verde-clarito
+          img(src="@/assets/curso/tema2/img03.png") 
       .col-12.col-md-7.mb-4.mb-md-0
         figure.mb-4
           img(src="@/assets/curso/tema2/img04.png")
@@ -117,7 +117,7 @@
         .tarjeta.color-primario.p-4.p-md-3
           .h4 Figura 5
           p Portañuela
-        .tarjeta.color-secundario.p-4.p-md-3
+        .tarjeta.verde-clarito.p-4.p-md-3
           .row.justify-content-center
             .col-8
               img(src="@/assets/curso/tema2/img12.svg")
@@ -127,26 +127,23 @@
             | coser es un placer, 2021
       .col-12.col-md-7.mb-4.mb-md-0
         ul.lista-ul--color
-            li 
-              i.lista-ul__vineta
+            hr.hrsize 
+            li
+              i.lista-ul__vineta.fas.fa-car-side
               | Para el trazo de cuellos se debe tener siempre la referencia del tipo de cuello, medidas de cada uno de los escotes y el plano de la prenda con la que se va a trabajar. El cuello se trabaja según el estilo deseado y está enlazado con los escotes.
-            hr
+            hr.hrsize
             li
-              i.lista-ul__vineta
-              p La manga se compone de 
-                strong portañuela 
-                | y otras piezas que lo complementan y está relacionada directamente con la sisa. Para el largo de la manga se identifican referencias o disminuciones dependiendo del comportamiento y ancho de puño, cada una de las medidas son únicamente referencias, por lo que se deben tener en cuenta siempre los requerimientos del diseño y que este es solo un ejercicio práctico para ejemplificar de qué manera manejar o modificar los básicos para el desarrollo de prendas.
-            hr
+              i.lista-ul__vineta.fas.fa-car-side
+              | La manga se compone de portañuela y otras piezas que lo complementan y está relacionada directamente con la sisa. Para el largo de la manga se identifican referencias o disminuciones dependiendo del comportamiento y ancho de puño, cada una de las medidas son únicamente referencias, por lo que se deben tener en cuenta siempre los requerimientos del diseño y que este es solo un ejercicio práctico para ejemplificar de qué manera manejar o modificar los básicos para el desarrollo de prendas. 
+            hr.hrsize
             li
-              i.lista-ul__vineta
+              i.lista-ul__vineta.fas.fa-car-side
               | Para el largo de la manga, se identifican referencias o disminuciones dependiendo del comportamiento y ancho de puño, cada una de las medidas son únicamente referencias, por lo que se deben tener en cuenta siempre los requerimientos del diseño y que este es solo un ejercicio práctico para ejemplificar cómo manejar o modificar los básicos para el desarrollo de prendas.
-            hr
+            hr.hrsize
             li
-              i.lista-ul__vineta
-              p Para el desarrollo de la 
-                strong portañuela
-                | , prenses, pliegues y demás complementos de la manga se debe tener en cuenta el diseño y la referencia de la prenda, pues este es solo un ejercicio práctico para ejemplificar de qué manera manejar o modificar los básicos para el desarrollo de prendas.
-
+              i.lista-ul__vineta.fas.fa-car-side
+              | Para el desarrollo de la  portañuela, prenses, pliegues y demás complementos de la manga se debe tener en cuenta el diseño y la referencia de la prenda, pues este es solo un ejercicio práctico para ejemplificar de qué manera manejar o modificar los básicos para el desarrollo de prendas.
+            hr.hrsize 
     figure.mb-4
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/agDscYys1CY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -156,8 +153,8 @@
         .tarjeta.color-primario.p-4.p-md-3
           .h4 Figura 6
           p Manga Slim fit
-        .tarjeta.color-acento-contenido
-          img(src="@/assets/curso/tema2/img13.svg")
+        .tarjeta.verde-clarito
+          img(src="@/assets/curso/tema2/img13.png")
     
     figure.mb-5
       .video
@@ -174,12 +171,12 @@
 
     .row
       .col-12.col-md-5.mb-4.mb-md-0
-        img(src="@/assets/curso/tema2/img15.png")
+        img(src="@/assets/curso/tema2/img15.svg")
       .col-12.col-md-7.mb-4.mb-md-0
         p.mb-4 Las proporciones son las medidas que se obtienen de una imagen, muestra física, ficha técnica, dibujo plano o diseño que, al hacer un paralelo con los básicos o moldes bases de la línea, silueta o talla que se esté trabajando, permite obtener medidas o dimensiones de referencia para el desarrollo o trazo del molde correspondiente al diseño, si bien en ocasiones anteriores se han desarrollado ejercicios sobre análisis de proporciones, es importante resaltar que las medidas y el análisis de proporciones varía de acuerdo con el tamaño, diseño, impresión, dibujo, básico y sistema de medida; las referencias implementadas son solo ejemplos detallados de cómo y qué manera se debe implementar el desarrollo.
         p.mb-4 La finalidad del ejercicio es poder comparar de qué manera se puede implementar el básico llevándolo hacia diferentes tipos de diseño, bajo una misma tipología.
         p Cuando se empieza a trabajar el trazo de prendas desde los básicos, estos siempre deben ir alineados o aplomados sobre una línea base de construcción, en prendas superiores la línea de aplome o línea base será la línea de profundidad de sisa.
-
+    .py-4 
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/CxwJTRQh-aY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
