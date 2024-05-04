@@ -235,17 +235,17 @@
       ol.lista-ol
         li
           .lista-ol--cuadro__vineta
-            span.text-white b
+            p.text-white.text-center b 
           strong Siluetas: 
-              | el manejo de siluetas varía únicamente en las fórmulas, los pasos y guías serán las mismas.
+          | el manejo de siluetas varía únicamente en las fórmulas, los pasos y guías serán las mismas.
 
     .tarjeta.color-primario.p-3.p-md-3.mb-4
       ol.lista-ol
         li
           .lista-ol--cuadro__vineta
-            span.text-white c
+            p.text-white.text-center c
           strong Patrón base de camisa: 
-            | para la construcción de patrones bases superiores y transformarlos en modelos masculinos listos para ser cortados en el material textil, se implementan una serie de pasos y desarrollos para obtener un resultado con precisión en las prendas finales, entre ellos:
+          | para la construcción de patrones bases superiores y transformarlos en modelos masculinos listos para ser cortados en el material textil, se implementan una serie de pasos y desarrollos para obtener un resultado con precisión en las prendas finales, entre ellos:
       
     .tarjeta.color-acento-contenido.p-4.p-md-5.mb-4
       .row.justify-content-center
@@ -284,7 +284,7 @@
           .lista-ol--cuadro__vineta
             span.text-white d
           strong Pasos detallados para realizar la base superior masculina: 
-            | cuando se habla de la base superior, es la copia de la horma del cuerpo partiendo del cuello hasta el largo que es ubicado entre la cintura y altura de cadera según el propósito del diseño, dicha base será la plantilla que se adecuará para convertirse en camisa, camiseta, chaqueta, chaleco, etc.
+          | cuando se habla de la base superior, es la copia de la horma del cuerpo partiendo del cuello hasta el largo que es ubicado entre la cintura y altura de cadera según el propósito del diseño, dicha base será la plantilla que se adecuará para convertirse en camisa, camiseta, chaqueta, chaleco, etc.
     
     .tarjeta.color-acento-contenido.p-4.p-md-5.mb-4
       .row.justify-content-center
