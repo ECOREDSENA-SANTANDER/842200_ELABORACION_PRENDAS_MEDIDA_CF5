@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Elaboración de modelos masculinos',
     descripcionCurso:
-      'Este componente formativo aborda las temáticas en levantamiento de patrones básicos de patronaje masculino y desarrollos de moldería. Se analizará la relación del cuerpo masculino con las prendas que usa y cómo converge su diálogo.<br><br> En concordancia, se vivenciarán desafíos del análisis, interpretación, precisión, adaptación y transformación según el material textil, la intencionalidad de uso y otros elementos como insumos y avíos con el objeto de efectuar la experimentación de la forma y la silueta.',
+      'Este componente formativo se centra en el levantamiento de patrones básicos y el desarrollo de moldería para moda masculina. Además, se abordarán los desafíos asociados con el análisis, la interpretación, la precisión, la adaptación y la transformación de prendas, tomando en cuenta factores como el tipo de tejido, el propósito de uso y otros elementos como insumos y avíos. ',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

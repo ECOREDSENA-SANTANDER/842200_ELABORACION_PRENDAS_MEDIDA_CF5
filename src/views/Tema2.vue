@@ -17,7 +17,7 @@
       .col-12.col-md-6.mb-4.mb-md-0
         .tarjeta.color-primario.p-4.p-md-3
           .h4 Figura 3
-          p Transformación de base a camisa masculino Slim fit
+          p Transformación de base a camisa masculino #[em Slim fit]
         .tarjeta.verde-clarito
           img(src="@/assets/curso/tema2/img02.png")
     
@@ -81,7 +81,7 @@
       .col-12.col-md-10
           img(src="@/assets/curso/tema2/img08.svg")
 
-    p.mb-4 Sin embargo, en este caso se sugiere trabajar con otra fórmula, la cual indica, por su comportamiento, que quedará con menor estructura y mayor comodidad sobre el cuerpo. Para este caso, se debe trabajar con sumatoria de acuerdo al tipo de camisa requerida. En el caso de las cabezas de mangas deducidas para las camisas clásica y Slim fit se sugiere trabajar con:
+    p.mb-4 Sin embargo, en este caso se sugiere trabajar con otra fórmula, la cual indica, por su comportamiento, que quedará con menor estructura y mayor comodidad sobre el cuerpo. Para este caso, se debe trabajar con sumatoria de acuerdo al tipo de camisa requerida. En el caso de las cabezas de mangas deducidas para las camisas clásica y #[em Slim fit] se sugiere trabajar con:
 
     .row.justify-content-center.mb-4
       .col-12.col-md-4.d-flex.mb-4.mb-md-0
@@ -97,7 +97,7 @@
           .row.justify-content-center.mb-4
             .col-6
               img(src="@/assets/curso/tema2/img10.svg")
-          p.text-center Cabeza de manga camisa Slim fit
+          p.text-center Cabeza de manga camisa #[em Slim fit]
           .h2.text-center =
           p.text-center sisa delantera + sisa posterior / 6 +4
     
@@ -110,7 +110,7 @@
     figure.mb-4
       img(src="@/assets/curso/tema2/img11.png")
 
-    p.mb-4 Para el desarrollo de las mangas, cuellos y puños se trabaja con las generalidades de cada uno de los trazos o de las camisas clásicas y Slim fit. A continuación, se relacionan algunas de estas generalidades a tener en cuenta:
+    p.mb-4 Para el desarrollo de las mangas, cuellos y puños se trabaja con las generalidades de cada uno de los trazos o de las camisas clásicas y #[em Slim fit]. A continuación, se relacionan algunas de estas generalidades a tener en cuenta:
 
     .row.mb-4
       .col-12.col-md-5.mb-4.mb-md-0
@@ -152,7 +152,7 @@
       .col-12.col-md-6.mb-4.mb-md-0
         .tarjeta.color-primario.p-4.p-md-3
           .h4 Figura 6
-          p Manga Slim fit
+          p Manga #[em Slim fit]
         .tarjeta.verde-clarito
           img(src="@/assets/curso/tema2/img13.png")
     
@@ -167,7 +167,7 @@
     figure.mb-4
       img(src="@/assets/curso/tema2/img14.png")
     
-    p.mb-4 Partiendo de los patrones básicos de la camisa clásica o Slim fit masculina, se pueden aplicar modificaciones para generar diferentes estilos desde el diseño. Para profundizar en los conceptos y detalles trabajados en el trazo de camisas, se hará el análisis de diferentes diseños desde imagen y dibujo plano, con el fin de tener referencias visuales de lo que se va trabajando en este punto, y con la firme intención de afianzar cada vez más el conocimiento, se hará o trabajará todo sobre análisis de proporciones.
+    p.mb-4 Partiendo de los patrones básicos de la camisa clásica o #[em Slim fit] masculina, se pueden aplicar modificaciones para generar diferentes estilos desde el diseño. Para profundizar en los conceptos y detalles trabajados en el trazo de camisas, se hará el análisis de diferentes diseños desde imagen y dibujo plano, con el fin de tener referencias visuales de lo que se va trabajando en este punto, y con la firme intención de afianzar cada vez más el conocimiento, se hará o trabajará todo sobre análisis de proporciones.
 
     .row
       .col-12.col-md-5.mb-4.mb-md-0

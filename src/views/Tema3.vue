@@ -8,7 +8,7 @@
         span 3
       h1 Patrones básicos inferiores masculinos
     
-    p.mb-4 Los patrones básicos inferiores hacen referencia a aquellas tipologías o prendas que se usan de la cintura hacia abajo como son pantalones, shorts, bermudas, jeans, joggers, etc. Dependiendo del estilo, se transforman los básicos modificando largos, amplitudes y cortes en las piezas.
+    p.mb-4 Los patrones básicos inferiores hacen referencia a aquellas tipologías o prendas que se usan de la cintura hacia abajo como son pantalones, #[em shorts], bermudas, #[em jeans], #[em joggers], etc. Dependiendo del estilo, se transforman los básicos modificando largos, amplitudes y cortes en las piezas.
 
     .row.justify-content-center.mb-5
       .col-8
@@ -135,15 +135,15 @@
 
     hr
     #t_3_3.titulo-segundo
-      .h4 3.3 Trazo del pantalón tipo jean slim fit
+      .h4 3.3 Trazo del pantalón tipo #[em jean] #[em Slim fit]
     
-    p.mb-4 Teniendo en cuenta que el desarrollo del trazo tipo jean silueta Slim fit (ajustado), sale del básico o la base inferior de pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño desde cero. En este caso, se realizarán ajustes por anchos, contornos y gancho o extensión de tiro, tomando como referencia o punto de anclaje la línea de aplome.
+    p.mb-4 Teniendo en cuenta que el desarrollo del trazo tipo #[em jean] silueta #[em Slim fit] (ajustado), sale del básico o la base inferior de pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño desde cero. En este caso, se realizarán ajustes por anchos, contornos y gancho o extensión de tiro, tomando como referencia o punto de anclaje la línea de aplome.
 
     .row.justify-content-center.mb-4
       .col-12.col-md-8.mb-4
         .tarjeta.color-primario.p-4.p-md-3
           .h4 Figura 9
-          p Pantalón tipo jean slim fito
+          p Pantalón tipo #[em jean] #[em Slim fit]
         .tarjeta.verde-clarito
           img(src="@/assets/curso/tema3/img04.png")
 
@@ -164,7 +164,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p #[b Manual de patronaje básico e interpretación de diseños.] 
-                    span Conoce sobre la creación del trazo del pantalón tipo jean slim fit masculino (ver página 80).
+                    span Conoce sobre la creación del trazo del pantalón tipo #[em jean] #[em Slim fit] masculino (ver página 80).
                 .col-sm-auto
                   a.boton.color-secundario.texto-blanco(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
                     span Descargar

@@ -294,9 +294,9 @@
           img(src="@/assets/curso/tema1/img19.svg")
         .col-12.col-md-5.mb-4.mb-md-0
           strong Figura 2
-          p Base masculino Slim fit
+          p Base masculino #[em Slim fit]
           img(src="@/assets/curso/tema1/img20.svg")
-        p.mb-4.py-4 Lo primero a tener en cuenta para realizar la base superior es el manejo de los básicos dependiendo del tipo de silueta, en este caso se sugiere trabajar el básico de silueta Slim fit. Para iniciar, se debe trazar una línea de manera horizontal en el papel, sobre el que quedarán alineados o aplomados como línea base de construcción; en prendas superiores la línea de aplome o línea base será la línea de profundidad de sisa.
+        p.mb-4.py-4 Lo primero a tener en cuenta para realizar la base superior es el manejo de los básicos dependiendo del tipo de silueta, en este caso se sugiere trabajar el básico de silueta #[em Slim fit]. Para iniciar, se debe trazar una línea de manera horizontal en el papel, sobre el que quedarán alineados o aplomados como línea base de construcción; en prendas superiores la línea de aplome o línea base será la línea de profundidad de sisa.
         
     .py-4
     .row.align-items-center.justify-content-center(data-aos="flip-up")
@@ -309,7 +309,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h6 Manual de patronaje básico e interpretación de diseños
-                  p.text-small Conoce el esquema del patrón base masculino clásico y Slim fit (ver páginas 65 a 67).
+                  p.text-small Conoce el esquema del patrón base masculino clásico y #[em Slim fit] (ver páginas 65 a 67).
                 .col-sm-auto
                   a.boton.color-secundario.texto-blanco(:href="obtenerLink('https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1')" target="_blank")
                     span Descargar
@@ -324,8 +324,8 @@
             .col 
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h6 Base superior masculina slim fit
-                  p.text-small Conoce el esquema del patrón base masculino clásico y Slim fit (ver páginas 65 a 67).Conoce el paso a paso para la elaboración del molde base con forma Slim fit.
+                  h6 Base superior masculina #[em Slim fit]
+                  p.text-small Conoce el esquema del patrón base masculino clásico y #[em Slim fit] (ver páginas 65 a 67).Conoce el paso a paso para la elaboración del molde base con forma #[em Slim fit].
                 .col-sm-auto 
                   a.boton.color-secundario.texto-blanco(:href="obtenerLink('https://www.youtube.com/watch?app=desktop&v=rximz1xBJM8&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
                     span Ver video
