@@ -23,11 +23,6 @@
     
     p.mb-4 El biotipo masculino hace referencia al tipo de personalidad vinculado a una cierta estructura morfológica de un sujeto, es decir, es la forma del cuerpo y esto se determina por factores óseos, de masa muscular y metabólicos, que se clasifican en:
 
-    .row.justify-content-center.mb-4
-      .col-6
-        figure
-          img(src='@/assets/curso/tema1/img02.svg', alt='ectomorfos')
-      
     .row.justify-content-center.mb-5 
       .col-lg-8
         .cajon.color-acento-botones.p-4.mb-4
@@ -87,7 +82,7 @@
         .cajon.color-primario.mb-4
           .row.align-items-center.justify-content-center
             .col-md-7.mb-4.mb-md-0
-                p.px-4.mb-4 Es importante entender cómo ha sido la adaptación del hombre y su relación con el vestuario masculino, por esto se debe realizar un recorrido corto por el siglo XX en la moda masculina. Para conocer esta relación se invita a leer el siguiente recurso:
+                p.px-4.mb-4 Es importante entender cómo ha sido la adaptación del hombre y su relación con el vestuario masculino, por esto se debe realizar un recorrido corto por el siglo XX en la moda masculina. Para conocer esta relación se invita a visitar el siguiente recurso:
             .col-md-5.mb-4.mb-md-0
               img.desborde(src="@/assets/curso/tema1/img09.svg")
 
@@ -193,14 +188,14 @@
               p.text-small El largo inicial del rectángulo se trabaja con la medida más larga de la parte del cuerpo a trabajar, por ejemplo:
               ul.lista-ul--color
                 li 
-                  i.lista-ul__vineta.text-dark.text-small.sinespacio
-                    | Pantalón: largo de pantalón.
+                  i.lista-ul__vineta.text-dark.text-small
+                  span.text-small Pantalón: largo de pantalón.
                 li 
                   i.lista-ul__vineta.text-dark.text-small.sinespacio
-                    | Falda: altura de rodilla.
+                  span.text-small Falda: altura de rodilla.
                 li 
                   i.lista-ul__vineta.text-dark.text-small.sinespacio
-                    | Superior: largo de talle posterior.
+                  span.text-small Superior: largo de talle posterior.
           hr
           hr
           .row.justify-content-center.align-items-center

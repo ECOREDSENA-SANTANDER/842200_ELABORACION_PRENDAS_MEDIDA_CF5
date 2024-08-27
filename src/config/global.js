@@ -129,11 +129,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
+      //{
+      //nombreRuta: 'complementario',
+      //icono: 'far fa-folder-open',
+      // titulo: 'Material complementario',
+      //},
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -151,117 +151,7 @@ export default {
       },
     ],
   },
-  creditos: {
-    liderEquipo: [
-      {
-        nombre: 'Maria Camila Garcia Santamaria',
-        cargo: 'Líder del equipo',
-        centro: 'Dirección General',
-      },
-    ],
-    contenidoInstruccional: [
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Leidy Johana Velásquez Hernández',
-        cargo: 'Experta temática',
-        centro: 'Diseño, Confección y Moda',
-        regional: 'Regional Antioquía',
-      },
-      {
-        nombre: 'Paola Angélica Castro Salazar',
-        cargo: 'Experta temática',
-        centro: 'Diseño, Confección y Moda',
-        regional: 'Regional Antioquía ',
-      },
-      {
-        nombre: 'Paula Andrea Taborda Ortiz',
-        cargo: 'Diseñadora instruccional',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Vilma Lucía Perilla Méndez',
-        cargo: 'Revisora metodológica y pedagógica',
-        centro: 'Centro de Gestión Industrial',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'José Gabriel Ortiz Abella',
-        cargo: 'Corrector de estilo',
-        centro: 'Centro de Gestión Industrial',
-        regional: 'Regional Distrito Capital',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Tolima',
-      },
-      {
-        nombre: 'Oscar Julian Marquez Sanabria',
-        cargo: 'Diseño web',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Zuleidy Maria Ruiz Torres',
-        cargo: 'Producción audiovisual',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Tolima',
-      },
-      {
-        nombre: 'Wilson Andrés Arenales Caceres',
-        cargo: 'Producción audiovisual',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Gilberto Junior Rodriguez Rodriguez',
-        cargo: 'Producción audiovisual',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Laura Murcia Pardo',
-        cargo: 'Producción audiovisual',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Diego Fernando Velasco Güiza',
-        cargo: 'Desarrollo front-end',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Yuli Marcela Gómez Tarazona',
-        cargo: 'Validación de diseño y contenido',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-    ],
-    gestoresRepositorio: [
-      {
-        nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional Tolima',
-      },
-    ],
-  },
+
   referencias: [
     {
       referencia:
@@ -380,7 +270,7 @@ export default {
     {
       termino: 'Muescas',
       significado:
-        'marcas a lo largo del margen de costura de un patrón que ayudan a alinear las piezas al coser',
+        'marcas a lo largo del margen de costura de un patrón que ayudan a alinear las piezas al coser.',
     },
     {
       termino: 'Snap',
@@ -390,35 +280,119 @@ export default {
     {
       termino: 'Tapeta',
       significado:
-        'abertura terminada en la parte delantera, las mangas o el escote, una tapeta generalmente apoya botones y ojales',
+        'abertura terminada en la parte delantera, las mangas o el escote, una tapeta generalmente apoya botones y ojales.',
     },
     {
       termino: 'Slim fit',
       significado: 'pantalón ajustado.',
     },
   ],
-  complementario: [
+  creditos: [
     {
-      texto:
-        'SENA. (2020). Manual de patronaje básico e interpretación de diseños. SENA.',
-      tipo: 'Manual patronaje básico interpretación diseños SENA',
-      link:
-        'https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1',
+      titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Responsable del Ecosistema',
+          centro: 'Dirección General',
+        },
+        {
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Responsable de Línea de Producción',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+      ],
     },
     {
-      texto: 'SENA. (2021). Siglo XX moda masculina. SENA.',
-      tipo: 'PDF',
-      descarga: '/downloads/Anexo1_Siglo_XX_Moda_Masculina.pdf',
+      titulo: 'CONTENIDO INSTRUCCIONAL',
+      autores: [
+        {
+          nombre: 'Leidy Johana Velásquez Hernández',
+          cargo: 'Experta Temática',
+          centro: 'Regional Antioquía - Diseño, Confección y Moda',
+        },
+        {
+          nombre: 'Paola Angélica Castro Salazar',
+          cargo: 'Experta Temática',
+          centro: 'Regional Antioquía - Diseño, Confección y Moda',
+        },
+        {
+          nombre: 'Paula Andrea Taborda Ortiz ',
+          cargo: 'Diseñadora Instruccional ',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Vilma Lucía Perilla Méndez',
+          cargo: 'Revisora metodológica y pedagógica.',
+          centro: 'Regional Distrito Capital – centro de Gestión Industrial ',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor Pedagógico',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'José Gabriel Ortiz Abella Carolina Coca Salazar',
+          cargo: 'Corrector de estilo ',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica – Regional Distrito Capital ',
+        },
+        {
+          nombre: 'Sandra Paola Morales Paez',
+          cargo: 'Evaluadora Instruccional ',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+      ],
     },
     {
-      texto: 'SENA. (2021). Sociología y cultura en la moda masculina. SENA',
-      tipo: 'PDF',
-      descarga: '/downloads/Anexo2_ Sociología_Cultura_Moda_Masculina.pdf',
+      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      autores: [
+        {
+          nombre: 'Julián Fernando Vanegas Vera',
+          cargo: 'Diseñador web',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Leonardo Castellanos Rodríguez',
+          cargo: 'Desarrolladora <i>Full-Stack</i>',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Lucenith Pinilla Moreno',
+          cargo: 'Desarrolladora <i>Full-Stack</i> Junior',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+      ],
     },
     {
-      texto: 'SENA. (2021). Estilo masculino. SENA',
-      tipo: 'PDF',
-      descarga: '/downloads/Anexo3_Estilo_Masculino.pdf',
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
+      autores: [
+        {
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+      ],
     },
   ],
+  creditosAdicionales: {
+    imagenes:
+      'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
+    creativeCommons:
+      'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
+  },
+  //complementario: [{
+
+  //}],
 }
