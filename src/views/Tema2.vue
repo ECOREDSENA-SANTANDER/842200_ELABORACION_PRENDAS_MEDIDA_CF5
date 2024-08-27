@@ -22,8 +22,9 @@
           img(src="@/assets/curso/tema2/img02.png")
     
     hr
+    separador
     #t_2_1.titulo-segundo
-      .h4 2.1 La camisa y sus variaciones 
+      .h2 2.1 La camisa y sus variaciones 
     
     p.mb-4 Para la elaboración de la camisa masculina se pueden utilizar las medidas del cliente y seguir el paso a paso del patrón elaborado. Como esta tipología no es de silueta muy ajustada, se puede apoyar de la tabla de medidas anatómicas masculinas estandarizadas y tomando como referencia el contorno más amplio de la persona. Después de su construcción, se aplican desahogos, sistema de cierre y complementos de diseño (almillas, bolsillo de parche).
 
@@ -44,15 +45,16 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/PKd_D-0U968" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    
+      figcaption Video. Leyenda del video
     hr
+    separador
     #t_2_2.titulo-segundo
-      .h4 2.2 Comportamiento de las cabezas de mangas
+      .h2 2.2 Comportamiento de las cabezas de mangas
     
     p.mb-4 Las cabezas de la manga son la parte ubicada desde el centro desplazándose por la sisa. Existen diferentes tipos según la necesidad del diseño buscado, razón por la cual es primordial comprender su comportamiento para evitar mangas tirantes.
 
     .row.mb-4
-      .col-12.col-md-4.d-flex.mb-4.mb-md-0
+      .col-12.col-md-6.d-flex.mb-4.mb-md-0.p-1.col-lg-4
         .tarjeta.color-acento-contenido.p-4.p-md-5
           .row.justify-content-center.mb-4
             .col-6
@@ -60,7 +62,7 @@
           p Entre 
             strong más larga 
             | sea la altura de cabeza de manga, otorgará menor movimiento sobre el cuerpo, lo que es igual a incomodidad, pero mayor estructura, esta descripción corresponde a las prendas que van ajustadas o con la horma del cuerpo.
-      .col-12.col-md-4.d-flex.mb-4.mb-md-0
+      .col-12.col-md-6.d-flex.mb-4.mb-md-0.p-1.col-lg-4
         .tarjeta.color-acento-contenido.p-4.p-md-5
           .row.justify-content-center.mb-4
             .col-6
@@ -68,7 +70,7 @@
           p Entre 
             strong más corta 
             | sea la altura de cabeza de manga, otorgará mayor movimiento sobre el cuerpo, lo que es igual a comodidad, pero menor estructura, esta descripción corresponde a las prendas que van holgadas o desestructuradas sobre el cuerpo.
-      .col-12.col-md-4.d-flex.mb-4.mb-md-0
+      .col-12.col-md-6.d-flex.mb-4.mb-md-0.p-1.col-lg-4
         .tarjeta.color-acento-contenido.p-4.p-md-5
           .row.justify-content-center.mb-4
             .col-6
@@ -83,19 +85,19 @@
 
     p.mb-4 Sin embargo, en este caso se sugiere trabajar con otra fórmula, la cual indica, por su comportamiento, que quedará con menor estructura y mayor comodidad sobre el cuerpo. Para este caso, se debe trabajar con sumatoria de acuerdo al tipo de camisa requerida. En el caso de las cabezas de mangas deducidas para las camisas clásica y #[em Slim fit] se sugiere trabajar con:
 
-    .row.justify-content-center.mb-4
-      .col-12.col-md-4.d-flex.mb-4.mb-md-0
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-4.col-sm-6.col-10.p-1
         .tarjeta.color-acento-contenido.p-4.p-md-5
           .row.justify-content-center.mb-4
-            .col-6
+            .col-6.col-lg-9
               img(src="@/assets/curso/tema2/img09.svg")
           p.text-center Cabeza de manga camisa clásica
           .h2.text-center =
           p.text-center sisa delantera + sisa posterior / 6 +2
-      .col-12.col-md-4.d-flex.mb-4.mb-md-0
+      .col-lg-4.col-sm-6.col-10.p-1
         .tarjeta.color-acento-contenido.p-4.p-md-5
           .row.justify-content-center.mb-4
-            .col-6
+            .col-6.col-lg-8
               img(src="@/assets/curso/tema2/img10.svg")
           p.text-center Cabeza de manga camisa #[em Slim fit]
           .h2.text-center =
@@ -104,8 +106,9 @@
     p.mb-5 La sumatoria al final permite identificar que por la silueta una de las dos mangas quedará con mayor desestructura sobre el cuerpo.
 
     hr
+    separador
     #t_2_3.titulo-segundo
-      .h4 2.3 Cuellos, mangas y sus variaciones
+      .h2 2.3 Cuellos, mangas y sus variaciones
     
     figure.mb-4
       img(src="@/assets/curso/tema2/img11.png")
@@ -134,7 +137,7 @@
             hr.hrsize
             li
               i.lista-ul__vineta.fas.fa-car-side
-              | La manga se compone de portañuela y otras piezas que lo complementan y está relacionada directamente con la sisa. Para el largo de la manga se identifican referencias o disminuciones dependiendo del comportamiento y ancho de puño, cada una de las medidas son únicamente referencias, por lo que se deben tener en cuenta siempre los requerimientos del diseño y que este es solo un ejercicio práctico para ejemplificar de qué manera manejar o modificar los básicos para el desarrollo de prendas. 
+              | La manga se compone de #[b portañuela] y otras piezas que lo complementan y está relacionada directamente con la sisa. Para el largo de la manga se identifican referencias o disminuciones dependiendo del comportamiento y ancho de puño, cada una de las medidas son únicamente referencias, por lo que se deben tener en cuenta siempre los requerimientos del diseño y que este es solo un ejercicio práctico para ejemplificar de qué manera manejar o modificar los básicos para el desarrollo de prendas. 
             hr.hrsize
             li
               i.lista-ul__vineta.fas.fa-car-side
@@ -142,12 +145,12 @@
             hr.hrsize
             li
               i.lista-ul__vineta.fas.fa-car-side
-              | Para el desarrollo de la  portañuela, prenses, pliegues y demás complementos de la manga se debe tener en cuenta el diseño y la referencia de la prenda, pues este es solo un ejercicio práctico para ejemplificar de qué manera manejar o modificar los básicos para el desarrollo de prendas.
+              | Para el desarrollo de la  #[b portañuela], prenses, pliegues y demás complementos de la manga se debe tener en cuenta el diseño y la referencia de la prenda, pues este es solo un ejercicio práctico para ejemplificar de qué manera manejar o modificar los básicos para el desarrollo de prendas.
             hr.hrsize 
     figure.mb-4
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/agDscYys1CY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+      figcaption Video. Leyenda del video
     .row.justify-content-center.mb-4
       .col-12.col-md-6.mb-4.mb-md-0
         .tarjeta.color-primario.p-4.p-md-3
@@ -159,10 +162,11 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/ktU9DxgPvH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    
+      figcaption Video. Leyenda del video
     hr
+    separador
     #t_2_4.titulo-segundo
-      .h4 2.4 Variantes de básicos superiores masculinos
+      .h2 2.4 Variantes de básicos superiores masculinos
     
     figure.mb-4
       img(src="@/assets/curso/tema2/img14.png")
@@ -171,7 +175,7 @@
 
     .row
       .col-12.col-md-5.mb-4.mb-md-0
-        img(src="@/assets/curso/tema2/img15.svg")
+        img(src="@/assets/curso/tema2/img15.png")
       .col-12.col-md-7.mb-4.mb-md-0
         p.mb-4 Las proporciones son las medidas que se obtienen de una imagen, muestra física, ficha técnica, dibujo plano o diseño que, al hacer un paralelo con los básicos o moldes bases de la línea, silueta o talla que se esté trabajando, permite obtener medidas o dimensiones de referencia para el desarrollo o trazo del molde correspondiente al diseño, si bien en ocasiones anteriores se han desarrollado ejercicios sobre análisis de proporciones, es importante resaltar que las medidas y el análisis de proporciones varía de acuerdo con el tamaño, diseño, impresión, dibujo, básico y sistema de medida; las referencias implementadas son solo ejemplos detallados de cómo y qué manera se debe implementar el desarrollo.
         p.mb-4 La finalidad del ejercicio es poder comparar de qué manera se puede implementar el básico llevándolo hacia diferentes tipos de diseño, bajo una misma tipología.
@@ -180,7 +184,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/CxwJTRQh-aY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+      figcaption Video. Leyenda del video
     
 
 </template>

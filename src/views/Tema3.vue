@@ -11,23 +11,24 @@
     p.mb-4 Los patrones básicos inferiores hacen referencia a aquellas tipologías o prendas que se usan de la cintura hacia abajo como son pantalones, #[em shorts], bermudas, #[em jeans], #[em joggers], etc. Dependiendo del estilo, se transforman los básicos modificando largos, amplitudes y cortes en las piezas.
 
     .row.justify-content-center.mb-5
-      .col-8
+      .col-12.col-md-11
         .bloque-texto-a.color-primario.p-4.p-md-2.mb-5 
           .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.mb-4.mb-lg-0
+            .col-lg-4.mb-4.mb-lg-0.col-md-8
               img(src="@/assets/curso/tema3/img01.svg")
             .col-lg-8
               .bloque-texto-a__texto.p-4
                 p En el siglo XVII los hombres tenían más protagonismo en su vestuario que las mujeres, pero luego de la Revolución francesa el hombre tomó un papel más enfocado hacia el trabajo y su estilo se tornó simple y toda la carga ornamental se reservó para la mujer.
 
     hr
+    separador
     #t_3_1.titulo-segundo
-      .h4 3.1 Pantalón base
+      .h2 3.1 Pantalón base
 
     p.mb-4 Para iniciar el trazo de la base inferior del pantalón masculino, se deben tomar las siguientes medidas.
 
     .row.mb-4
-      .col-12.col-md-7.mb-4.mb-md-0
+      .col-12.col-md-12.mb-4.mb-md-0.col-lg-7
         p.mb-4
           strong Tabla 1.
           | Medidas del pantalón masculino
@@ -35,8 +36,8 @@
           table
             thead
               tr
-                th.h4.mb-0.text-center.text-white Tipo de plano
-                th.h4.mb-0.text-center.text-white Montado
+                th.h3.mb-0.text-center.text-white Tipo de plano
+                th.h3.mb-0.text-center.text-white Montado
             tbody
               tr
                 td.text-center Contorno de cintura
@@ -50,9 +51,9 @@
               tr
                 td.text-center Tipo de papel sugerido
                 td.text-center Cartón cartulina o cartulina
-      .col-12.col-md-5.mb-4.mb-md-0
+      .col-12.col-md-12.mb-4.mb-md-0.col-lg-5
         p.mb-4 Para hacer el trazo del pantalón en cualquier línea es necesario tener en cuenta el funcionamiento y sus características:
-        .cajon.color-acento-contenido.d-flex.p-4.mb-4
+        .cajon.cajon-colorosa.d-flex.p-4.mb-4
           p La base del pantalón sale en plano montado trazando primero la parte delantera y sobre el delantero trazando el posterior. Esto se debe a que varias de las medidas curvas y demás son tomadas de la referencia del trazo del delantero.
         .cajon.color-primario.d-flex.p-4.mb-4
           p La base de pantalón en masculino sale sin margen de costura.
@@ -93,10 +94,11 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Py0Nfzckd-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+      figcaption Video. Leyenda del video
     hr
+    separador
     #t_3_2.titulo-segundo
-      .h4 3.2 Trazo del pantalón clásico masculino
+      .h2 3.2 Trazo del pantalón clásico masculino
     
     p.mb-4 Para el trazo del pantalón clásico, por medio del plano de referencia, este se construye partiendo de la base inferior y se transforman aplicando desahogos, sistemas de cierre y complementos (prenses, bolsillo – boca, fondo, falso y vista de bolsillo, bolsillo de ribete, pretina recta); para el trazo de un pantalón formal o clásico, se debe tener en cuenta que cada prenda, diseño, referencia, dibujo plano, ficha técnica o imagen, tiene unas referencias específicas que van de la mano de todos los conceptos de diseño o requerimientos que se entregan para producción.
 
@@ -132,10 +134,11 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/4FG5qSekuLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+      figcaption Video. Leyenda del video
     hr
+    separador
     #t_3_3.titulo-segundo
-      .h4 3.3 Trazo del pantalón tipo #[em jean] #[em Slim fit]
+      .h2 3.3 Trazo del pantalón tipo #[em jean] #[em Slim fit]
     
     p.mb-4 Teniendo en cuenta que el desarrollo del trazo tipo #[em jean] silueta #[em Slim fit] (ajustado), sale del básico o la base inferior de pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño desde cero. En este caso, se realizarán ajustes por anchos, contornos y gancho o extensión de tiro, tomando como referencia o punto de anclaje la línea de aplome.
 
@@ -152,7 +155,7 @@
     figure.mb-4
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/RE-fVkNZIOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+      figcaption Video. Leyenda del video
     .py-2
     .row.align-items-center.justify-content-center(data-aos="flip-up")
       .col-lg-10 
