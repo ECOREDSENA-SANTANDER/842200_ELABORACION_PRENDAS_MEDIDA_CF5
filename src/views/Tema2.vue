@@ -133,19 +133,19 @@
             hr.hrsize 
             li
               i.lista-ul__vineta.fas.fa-car-side
-              | Para el trazo de cuellos se debe tener siempre la referencia del tipo de cuello, medidas de cada uno de los escotes y el plano de la prenda con la que se va a trabajar. El cuello se trabaja según el estilo deseado y está enlazado con los escotes.
+              | El diseño del cuello comienza con la selección del estilo y la recopilación precisa de las medidas de los escotes. Este elemento debe trabajarse en armonía con el plano general de la prenda y está intrínsecamente ligado a los escotes que se elijan.
             hr.hrsize
             li
               i.lista-ul__vineta.fas.fa-car-side
-              | La manga se compone de #[b portañuela] y otras piezas que lo complementan y está relacionada directamente con la sisa. Para el largo de la manga se identifican referencias o disminuciones dependiendo del comportamiento y ancho de puño, cada una de las medidas son únicamente referencias, por lo que se deben tener en cuenta siempre los requerimientos del diseño y que este es solo un ejercicio práctico para ejemplificar de qué manera manejar o modificar los básicos para el desarrollo de prendas. 
+              | La manga, que incluye la #[b portañuela] y otras piezas complementarias, se integra estrechamente con la sisa. 
             hr.hrsize
             li
               i.lista-ul__vineta.fas.fa-car-side
-              | Para el largo de la manga, se identifican referencias o disminuciones dependiendo del comportamiento y ancho de puño, cada una de las medidas son únicamente referencias, por lo que se deben tener en cuenta siempre los requerimientos del diseño y que este es solo un ejercicio práctico para ejemplificar cómo manejar o modificar los básicos para el desarrollo de prendas.
+              | El largo de la manga se ajusta teniendo en cuenta las medidas de referencia, que varían en función del ancho del puño y el efecto deseado. Cabe destacar que estas medidas son guías que deben adaptarse a los requisitos específicos del diseño, y se presentan aquí como una práctica para ilustrar cómo se pueden manejar o alterar los patrones básicos en la confección de prendas.
             hr.hrsize
             li
               i.lista-ul__vineta.fas.fa-car-side
-              | Para el desarrollo de la  #[b portañuela], prenses, pliegues y demás complementos de la manga se debe tener en cuenta el diseño y la referencia de la prenda, pues este es solo un ejercicio práctico para ejemplificar de qué manera manejar o modificar los básicos para el desarrollo de prendas.
+              | En el proceso de confeccionar detalles como la #[b portañuela], los pliegues y demás elementos de la manga, es esencial considerar tanto el diseño final como las especificaciones de la prenda de referencia. Este procedimiento se ofrece como una práctica didáctica para demostrar el manejo y la modificación de los patrones básicos en la creación de nuevas prendas.
             hr.hrsize 
     figure.mb-4
       .video

@@ -111,17 +111,17 @@
       .h2 1.3 Sociología y cultura en la moda masculina
 
     .row.justify-content-center.mb-5 
-      .col-12.col-md-12
-        .cajon.color-primario.p-4.mb-4
+      .col-12.col-md-12.col-lg-10
+        .cajon.color-acento-contenido.p-4.mb-4
           .row
-            .col-12.col-md-12.mb-4.mb-md-0
+            .col-12.col-md-12.mb-4.mb-md-0.col-lg-9.p-4
               p.mb-4 La moda masculina siempre ha sido influenciada fuertemente por los fenómenos sociales, políticos y económicos durante toda la historia, pero expresiones artísticas como la música, el cine, la televisión y el fútbol son grandes referentes en cuanto al vestuario masculino; hoy en día las redes sociales han desencadenado una propagación de nuevos estilos y propuestas interesantes para los clósets de los hombres. Para conocer esta relación se invita a hacer lectura del siguiente recurso:
               .row.align-items-center.justify-content-center(data-aos="flip-up")
                 .tarjeta.tarjeta-descarga.color-naranja.p-2.mb-5
                   .row.justify-content-around.align-items-center
                     .col-3.col-sm-2.col-lg-2
                       img.imgico(src="@/assets/curso/pdf.svg")  
-                    .col 
+                    .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0
                           strong Sociología y cultura en la moda masculina
@@ -130,7 +130,7 @@
                           a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Anexo2_ Sociología_Cultura_Moda_Masculina.pdf')" target="_blank")
                             span Descargar
                             i.fas.fa-download
-            .col-12.col-md-6.mb-md-0
+            .col-12.col-md-6.mb-md-0.col-lg-3
               img(src="@/assets/curso/tema1/img10.svg")
     
     hr
@@ -139,11 +139,11 @@
       .h2 1.4 Acompañamiento en el estilo masculino 
 
     .row.justify-content-center.mb-5 
-      .col-12.col-md-12
+      .col-12.col-md-12.col-lg-10
         .cajon.color-acento-contenido.p-4.mb-4
           .row
-            .col-12.col-md-12.mb-4.mb-md-0
-              p.mb-4 A la hora de vestir, los hombres suelen ser muy prácticos y, normalmente, llama la atención un común denominador: compran poco, pero buscando la calidad y el estilo. Precisamente, esta es la clave del fondo de armario masculino: todo el conjunto de prendas y complementos que se utilizan en cualquier ocasión o momento del año, que no pasan de moda y se caracterizan por ser prácticas y duraderas por su calidad y diseño. Para profundizar en lo anterior es importante leer el siguiente recurso:
+            .col-12.col-md-12.mb-4.mb-md-0.col-lg-9.p-4
+              p.mb-4 Cuando se trata de vestir, los hombres tienden a priorizar la practicidad. Generalmente, se observa una tendencia común: compran con menos frecuencia, pero enfocan su atención en la calidad y el estilo. Este enfoque es fundamental para crear un armario masculino sólido, compuesto por prendas y accesorios versátiles que son atemporales, prácticos y duraderos debido a su calidad y diseño. Estas características aseguran que sean apropiados para cualquier ocasión o temporada. Para entender mejor estos conceptos, es recomendable consultar el siguiente recurso: 
               .row.align-items-center.justify-content-center(data-aos="flip-up")
                 .tarjeta.tarjeta-descarga.color-naranja.p-2.mb-5
                   .row.justify-content-around.align-items-center
@@ -158,7 +158,7 @@
                           a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Anexo3_Estilo_Masculino.pdf')" target="_blank")
                             span Descargar
                             i.fas.fa-download
-            .col-12.col-md-6.mb-4.mb-md-0
+            .col-12.col-md-6.mb-4.mb-md-0.col-lg-3
               img(src="@/assets/curso/tema1/img11.svg")
 
     hr
@@ -228,7 +228,7 @@
               img(src="@/assets/curso/tema1/img17.svg")
             .col-12.col-md-4
               h3 Manejo del papel 
-              p.text-small Por lo general el trazo de moldes se suele hacer con papel trazo o manifold, dicho papel tiene dos caras, una cara que al tacto es liso y visualmente brillante y otra que al tacto es corrugada y opaca, por lo general se recomienda trabajar por la parte corrugada con el fin de tener una mejor adhesión del grafito (lápiz) y de no permitir que rebote la luz, es recomendable trabajar en papel blanco con el fin de no cansar la vista y descansar la mente.
+              p.text-small Para el trazado de moldes, se emplea comúnmente papel trazo o manifold. Este tipo de papel presenta dos superficies distintas: una lisa y brillante, y otra corrugada y opaca. Se recomienda usar la cara corrugada para mejorar la adhesión del grafito (lápiz) y evitar el reflejo de la luz, lo cual facilita el trabajo visual. Además, es preferible trabajar sobre papel blanco, ya que esto ayuda a reducir la fatiga visual y proporciona un descanso mental durante el proceso. 
           hr
 
     .tarjeta.color-primario.p-3.p-md-3.mb-4
@@ -291,11 +291,7 @@
         .col-12.col-md-5.mb-4.mb-md-0
           strong Figura 1
           p Base de superior masculina
-          img(src="@/assets/curso/tema1/img19.png")
-        .col-12.col-md-5.mb-4.mb-md-0
-          strong Figura 2
-          p Base masculino #[em Slim fit]
-          img(src="@/assets/curso/tema1/img20.svg")
+          img(src="@/assets/curso/tema1/figura1.png")
         p.mb-4.py-4 Lo primero a tener en cuenta para realizar la base superior es el manejo de los básicos dependiendo del tipo de silueta, en este caso se sugiere trabajar el básico de silueta #[em Slim fit]. Para iniciar, se debe trazar una línea de manera horizontal en el papel, sobre el que quedarán alineados o aplomados como línea base de construcción; en prendas superiores la línea de aplome o línea base será la línea de profundidad de sisa.
         
       .py-4
@@ -314,7 +310,13 @@
                     a.boton.color-secundario.texto-blanco(:href="obtenerLink('https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1')" target="_blank")
                       span Descargar
                       i.fas.fa-download
-
+                      .col-12.col-md-5.mb-4.mb-md-0
+      .row.justify-content-center
+        .col-12.col-md-5.mb-4.mb-md-0
+          strong Figura 2
+          p Base masculino #[em Slim fit]
+          img(src="@/assets/curso/tema1/figura2.png")
+      .py-2
       .row.align-items-center.justify-content-center(data-aos="flip-up")
         .col-lg-10 
           .tarjeta.tarjeta-descarga.color-verde.p-4.mb-5
@@ -325,10 +327,10 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h6 Base superior masculina #[em Slim fit]
-                    p.text-small Conoce el esquema del patrón base masculino clásico y #[em Slim fit] (ver páginas 65 a 67).Conoce el paso a paso para la elaboración del molde base con forma #[em Slim fit].
+                    p.text-small Conoce el paso a paso para la elaboración del molde base con forma #[em Slim fit.]
                   .col-sm-auto 
                     a.boton.color-secundario.texto-blanco(:href="obtenerLink('https://www.youtube.com/watch?app=desktop&v=rximz1xBJM8&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
-                      span Ver video
+                      span ir al video
                       i.fas.fa-video
             
         

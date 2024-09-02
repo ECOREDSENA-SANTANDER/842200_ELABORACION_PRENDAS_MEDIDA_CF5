@@ -140,7 +140,7 @@
     #t_3_3.titulo-segundo
       .h2 3.3 Trazo del pantalón tipo #[em jean] #[em Slim fit]
     
-    p.mb-4 Teniendo en cuenta que el desarrollo del trazo tipo #[em jean] silueta #[em Slim fit] (ajustado), sale del básico o la base inferior de pantalón masculino, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño desde cero. En este caso, se realizarán ajustes por anchos, contornos y gancho o extensión de tiro, tomando como referencia o punto de anclaje la línea de aplome.
+    p.mb-4 Es esencial reconocer que el trazado de un #[em jean] de silueta #[em slim fit], que se caracteriza por su corte ajustado, se origina a partir del patrón básico del pantalón masculino. Para una correcta modificación o ajuste del diseño sin necesidad de empezar desde el principio, resulta crucial tener un conocimiento detallado de las medidas y puntos clave de la estructura de la prenda. Los ajustes se enfocarán en aspectos como el ancho, el contorno y la profundidad o extensión del tiro, utilizando la línea de aplome como referencia o punto de partida fundamental para los cambios. 
 
     .row.justify-content-center.mb-4
       .col-12.col-md-8.mb-4
