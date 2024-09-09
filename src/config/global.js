@@ -189,38 +189,32 @@ export default {
     {
       referencia:
         'SENA. (9 de febrero de 2021). Base inferior de pantalón masculino. [Video]. YouTube.',
-      link:
-        'https://www.youtube.com/watch?app=desktop&v=Py0Nfzckd-U&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+      link: 'https://www.youtube.com/watch?v=kUN0Zv0mpUA',
     },
     {
       referencia:
         'SENA. (9 de febrero de 2021). Base superior masculina slim fit. [Video]. YouTube.',
-      link:
-        'https://www.youtube.com/watch?app=desktop&v=rximz1xBJM8&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+      link: 'https://youtu.be/lLLtWBVK-zA',
     },
     {
       referencia:
         'SENA. (10 de febrero de 2021). Trazo camisa clásica. [Video]. YouTube.',
-      link:
-        'https://www.youtube.com/watch?v=PKd_D-0U968&t=76s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+      link: 'https://www.youtube.com/watch?v=UwIdbbg5-fA',
     },
     {
       referencia:
         'SENA. (10 de febrero de 2021). Trazo de cuellos, generalidades y comportamientos. [Video]. YouTube.',
-      link:
-        'https://www.youtube.com/watch?v=agDscYys1CY&t=105s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+      link: 'https://www.youtube.com/watch?v=cfkxQlf6Vfw',
     },
     {
       referencia:
         'SENA. (10 de febrero de 2021). Trazo prendas superiores, camisa. [Video]. YouTube.',
-      link:
-        'https://www.youtube.com/watch?v=CxwJTRQh-aY&t=173s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+      link: 'https://youtu.be/YgPcDIMHU8U',
     },
     {
       referencia:
         'SENA. (10 de febrero de 2021). Trazos de manga, puño y cuello, camisa clásica y slim fit. [Video]. YouTube.',
-      link:
-        'https://www.youtube.com/watch?v=ktU9DxgPvH8&t=446s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA',
+      link: 'https://www.youtube.com/watch?v=VMJYcQqIKBQ',
     },
     {
       referencia: 'SENA. (s.f.). Fashion Snoops.',

@@ -329,7 +329,7 @@
                     h6 Base superior masculina #[em Slim fit]
                     p.text-small Conoce el paso a paso para la elaboración del molde base con forma #[em Slim fit.]
                   .col-sm-auto 
-                    a.boton.color-secundario.texto-blanco(:href="obtenerLink('https://www.youtube.com/watch?app=desktop&v=rximz1xBJM8&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA')" target="_blank")
+                    a.boton.color-secundario.texto-blanco(:href="('https://youtu.be/zEqZGyEEhnU?si=m8GYbKkof3W3dsmm')" target="_blank")
                       span ir al video
                       i.fas.fa-video
             
