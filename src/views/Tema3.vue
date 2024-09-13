@@ -89,7 +89,7 @@
 
       .col-12.col-md-8.mb-4
         .cajon.color-acento-contenido.p-4.mb-4
-          p Se debe tener en cuenta que en pantalón, al igual que en las bases superiores, se trabajan siluetas; la base de pantalón trabajada en el Manual, en la que se maneja un aumento de medida en su base, indica que la base será de un pantalón amplio o de silueta clásica; en caso de querer trabajarlo un poco más ajustado se podrá modificar la fórmula.
+          p Se debe tener en cuenta que, en pantalón, al igual que en las bases superiores, se trabajan siluetas; la base de pantalón trabajada en el Manual, en la que se maneja un aumento de medida en su base, indica que la base será de un pantalón amplio o de silueta clásica; en caso de querer trabajarlo un poco más ajustado se podrá modificar la fórmula.
       
     figure.mb-5
       .video
