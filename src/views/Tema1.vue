@@ -307,7 +307,7 @@
                     h6 Manual de patronaje básico e interpretación de diseños
                     p.text-small Conoce el esquema del patrón base masculino clásico y #[em Slim fit] (ver páginas 65 a 67).
                   .col-sm-auto
-                    a.boton.color-secundario.texto-blanco(:href="obtenerLink('https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1')" target="_blank")
+                    a.boton.color-secundario.texto-blanco(:href="obtenerLink('downloads/Manual_patronaje_basico.pdf')" target="_blank")
                       span Descargar
                       i.fas.fa-download
                       .col-12.col-md-5.mb-4.mb-md-0
