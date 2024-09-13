@@ -93,7 +93,7 @@
               img(src="@/assets/curso/tema2/img09.svg")
           p.text-center Cabeza de manga camisa clásica
           .h2.text-center =
-          p.text-center sisa delantera + sisa posterior / 6 +2
+          p.text-center sisa delantera + sisa posterior / 6 + 2
       .col-lg-4.col-sm-6.col-10.p-1
         .tarjeta.color-acento-contenido.p-4.p-md-5
           .row.justify-content-center.mb-4
@@ -101,7 +101,7 @@
               img(src="@/assets/curso/tema2/img10.svg")
           p.text-center Cabeza de manga camisa #[em Slim fit]
           .h2.text-center =
-          p.text-center sisa delantera + sisa posterior / 6 +4
+          p.text-center sisa delantera + sisa posterior / 6 + 4
     
     p.mb-5 La sumatoria al final permite identificar que por la silueta una de las dos mangas quedará con mayor desestructura sobre el cuerpo.
 

@@ -31,7 +31,7 @@
       .col-12.col-md-12.mb-4.mb-md-0.col-lg-7
         p.mb-4
           strong Tabla 1.
-          | Medidas del pantalón masculino
+          |  Medidas del pantalón masculino
         .tabla-b.mb-4
           table
             thead
