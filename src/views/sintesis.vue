@@ -3,10 +3,7 @@
     BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-12
-          img(src="@/assets/curso/titulo.svg", alt="alt")
-      
-      p.mb-5 A continuación, se presenta el diagrama que representa el resumen de las temáticas que están desarrolladas en el componente formativo:
+        p.mb-5 A continuación, se presenta el diagrama que representa el resumen de las temáticas que están desarrolladas en el componente formativo:
   
       .row.justify-content-center
         .col-lg-12.mb-5

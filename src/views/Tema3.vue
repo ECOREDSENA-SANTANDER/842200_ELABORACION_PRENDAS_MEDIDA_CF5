@@ -66,7 +66,7 @@
           .h4 Figura 7
           p Pantalón base
         .tarjeta.verde-clarito
-          img(src="@/assets/curso/tema3/img02.png")
+          img(src="@/assets/curso/tema3/img02.png", alt="La figura describe un patrón de costura para un pantalón base. Las líneas y medidas marcadas proporcionan la guía para cortar la tela y ensamblar el pantalón. Se detallan las curvas de la cintura y la cadera, así como las líneas de costura, se señalan referencias específicas para las distintas partes de la prenda, como la cintura y el tiro, con marcas para indicar los puntos de ajuste y ensamble. Este patrón es una representación esquemática que sirve como punto de partida para confeccionar un pantalón estándar. ")
 
 
     .py-2
@@ -108,7 +108,7 @@
           .h4 Figura 8
           p Pantalón clásico masculino
         .tarjeta.color-acento-contenido
-          img(src="@/assets/curso/tema3/img03.png")
+          img(src="@/assets/curso/tema3/img03.png", alt="Se expone un patrón técnico para un pantalón clásico masculino. El patrón está delineado con líneas precisas y anotaciones que indican las medidas para cortar y ensamblar la prenda. Se destacan los contornos de la cintura, las curvas de la cadera y las líneas del tiro, esenciales para lograr el corte clásico. Los marcadores y líneas punteadas señalan áreas de unión y costura, necesarios para la confección de un pantalón de estilo tradicional.")
     
     p.mb-4 Teniendo en cuenta que el desarrollo del trazo del pantalón clásico sale desde el básico o la base inferior, es importante tener claras las medidas y las referencias de construcción, con el fin de modificar o trabajar ajustes desde la base y no iniciar el trazo del diseño desde cero.
     p.mb-4 Para el trazo del plano desde los básicos, se debe iniciar trazando una línea de referencia; en el caso de las bases inferiores de pantalón, se traza una línea de manera horizontal en el papel, sobre la cual quedará alineados o aplomados desde la línea base de construcción; en prendas inferiores, la línea de aplome o línea base será la línea de altura de cadera o tiro.
@@ -148,7 +148,7 @@
           .h4 Figura 9
           p Pantalón tipo #[em jean] #[em Slim fit]
         .tarjeta.verde-clarito
-          img(src="@/assets/curso/tema3/img04.png")
+          img(src="@/assets/curso/tema3/img04.png", alt="La figura expone un patrón detallado para un pantalón tipo jean slim fit. Se observan dos vistas del patrón: la frontal y la trasera. Cada una está marcada con medidas específicas y líneas de corte o costura. El diseño refleja el ajuste característico del estilo slim fit, con un contorno estrecho a lo largo de las piernas. Las anotaciones y marcas indican puntos de referencia para la confección, como la cintura, caderas, y la curvatura del tiro, esenciales para lograr la silueta deseada. ")
 
     p.mb-4 Para el trazo del plano desde los básicos se debe iniciar trazando una línea de referencia, en el caso de las bases inferiores de pantalón se traza una línea de manera horizontal en el papel, sobre la cual quedará alineados o aplomados desde la línea base de construcción; en prendas inferiores, la línea de aplome o línea base será la línea de altura de cadera o tiro.
 

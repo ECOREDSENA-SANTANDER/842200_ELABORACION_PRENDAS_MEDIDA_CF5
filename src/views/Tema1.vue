@@ -67,7 +67,7 @@
               .col 
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    strong Manual de patronaje básico e interpretación de diseños 
+                    strong Manual de patronaje básico
                     .text-small Conoce la tabla de medidas estandarizada según estudio antropométrico masculino (ver página 64).
                   .col-sm-auto
                     a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Manual_patronaje_basico.pdf')" target="_blank")
@@ -228,7 +228,7 @@
               img(src="@/assets/curso/tema1/img17.svg")
             .col-12.col-md-4
               h3 Manejo del papel 
-              p.text-small Para el trazado de moldes, se emplea comúnmente papel trazo o manifold. Este tipo de papel presenta dos superficies distintas: una lisa y brillante, y otra corrugada y opaca. Se recomienda usar la cara corrugada para mejorar la adhesión del grafito (lápiz) y evitar el reflejo de la luz, lo cual facilita el trabajo visual. Además, es preferible trabajar sobre papel blanco, ya que esto ayuda a reducir la fatiga visual y proporciona un descanso mental durante el proceso. 
+              p.text-small Para el trazado de moldes, se emplea comúnmente papel trazo o #[em manifold]. Este tipo de papel presenta dos superficies distintas: una lisa y brillante, y otra corrugada y opaca. Se recomienda usar la cara corrugada para mejorar la adhesión del grafito (lápiz) y evitar el reflejo de la luz, lo cual facilita el trabajo visual. Además, es preferible trabajar sobre papel blanco, ya que esto ayuda a reducir la fatiga visual y proporciona un descanso mental durante el proceso. 
           hr
 
     .tarjeta.color-primario.p-3.p-md-3.mb-4
@@ -291,7 +291,7 @@
         .col-12.col-md-5.mb-4.mb-md-0
           strong Figura 1
           p Base de superior masculina
-          img(src="@/assets/curso/tema1/figura1.png")
+          img(src="@/assets/curso/tema1/figura1.png", alt="La imagen muestra un diagrama técnico de lo que parece ser un patrón de costura. Hay varias líneas y curvas que indican el contorno y detalles de una prenda, con marcas de medidas numéricas y letras que posiblemente se corresponden con puntos específicos para cortar, doblar o coser. Las líneas sólidas definen la forma general, mientras que las líneas punteadas y curvas pueden representar pliegues o costuras. Algunas secciones tienen anotaciones que indican ajustes a las medidas, como A +1/3 o B-1, sugiriendo incrementos o decrementos en las dimensiones. Además, hay referencias como P/6 +7 y P/6 +9, que se refieren a proporciones o fracciones relacionadas con las medidas de la prenda. El esquema incluye también ejes claramente etiquetados, como centro atrás, lo que ayuda en la orientación del patrón. Este diagrama es típicamente utilizado por diseñadores de moda y sastres para crear piezas de vestuario a medida.")
         p.mb-4.py-4 Lo primero a tener en cuenta para realizar la base superior es el manejo de los básicos dependiendo del tipo de silueta, en este caso se sugiere trabajar el básico de silueta #[em Slim fit]. Para iniciar, se debe trazar una línea de manera horizontal en el papel, sobre el que quedarán alineados o aplomados como línea base de construcción; en prendas superiores la línea de aplome o línea base será la línea de profundidad de sisa.
         
       .py-4
@@ -315,7 +315,7 @@
         .col-12.col-md-5.mb-4.mb-md-0
           strong Figura 2
           p Base masculino #[em Slim fit]
-          img(src="@/assets/curso/tema1/figura2.png")
+          img(src="@/assets/curso/tema1/figura2.png", alt="La imagen expone un patrón de costura slim fit para ropa masculina, detallando las medidas y ajustes necesarios para un corte que se adapta ceñidamente al cuerpo. Se observan líneas y marcas que delinean elementos como la sisa y el cuello, así como ajustes específicos para personalizar el ajuste. Las anotaciones y las líneas indican las áreas de corte, pliegue y costura, imprescindibles para lograr el diseño slim fit deseado. Se pueden identificar diferentes partes del patrón: la curvatura para la sisa, la indicación de la ubicación del cuello y las líneas que definen el contorno de los lados y la cintura. Las anotaciones numéricas y las letras (como A, B, P, CF) son referencias de medidas específicas o puntos de ajuste que se utilizan para construir el patrón y adaptarlo al tamaño y forma deseados.")
       .py-2
       .row.align-items-center.justify-content-center(data-aos="flip-up")
         .col-lg-10 

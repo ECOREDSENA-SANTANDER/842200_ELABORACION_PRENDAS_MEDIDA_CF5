@@ -19,7 +19,7 @@
           .h4 Figura 3
           p Transformación de base a camisa masculino #[em Slim fit]
         .tarjeta.verde-clarito
-          img(src="@/assets/curso/tema2/img02.png")
+          img(src="@/assets/curso/tema2/img02.png", alt="La imagen exhibe un diagrama técnico para la transformación de una base de camisa masculina con corte slim fit. Incluye múltiples secciones y medidas que indican cómo ajustar un patrón estándar para conseguir un ajuste más entallado y moderno. Se detallan las dimensiones para modificar áreas clave como el cuello, el pecho, la cintura y las mangas, con el fin de obtener un perfil más ajustado. Cada ajuste está meticulosamente marcado con números y líneas que señalan dónde hacer los cambios, garantizando así la precisión requerida para un patrón de camisa slim fit. ")
     
     hr
     separador
@@ -34,7 +34,7 @@
           .h4 Figura 4
           p Camisa clásica
         .tarjeta.verde-clarito
-          img(src="@/assets/curso/tema2/img03.png") 
+          img(src="@/assets/curso/tema2/img03.png", alt="La imagen muestra un patrón básico para una camisa masculina de corte clásico, este patrón incluye anotaciones detalladas de medidas para las diferentes secciones de la prenda, como el cuello, el cuerpo, las mangas y el canesú. Las líneas marcadas indican los bordes de corte y las áreas de costura, las  anotaciones numéricas junto a las líneas y puntos proporcionan una guía precisa para el ensamblaje y la confección de la camisa. Este diagrama es una herramienta esencial para la creación de prendas a medida en sastrería clásica masculina. ") 
       .col-12.col-md-7.mb-4.mb-md-0
         figure.mb-4
           img(src="@/assets/curso/tema2/img04.png")
@@ -45,7 +45,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/UwIdbbg5-fA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Leyenda del video
+      figcaption Video. Trazo de camisa clásica
     hr
     separador
     #t_2_2.titulo-segundo
@@ -77,13 +77,13 @@
               img(src="@/assets/curso/tema2/img07.svg")
           p En este caso se identifican cabezas de manga muy cortas lo cual indica que son prendas que quedarán desestructuradas u holgadas sobre el cuerpo. 
 
-    p.mb-4 Dentro de los ejercicios anteriores de cabezas de manga, se identifica la generalidad de cabeza de manga deducida y cómo esta se divide de acuerdo con el tipo de manga. Es importante tener en cuenta que a mayor amplitud de la prenda, se debe realizar una menor división. A continuación se relaciona un ejemplo:
+    p.mb-4 Dentro de los ejercicios anteriores de cabezas de manga, se identifica la generalidad de cabeza de manga deducida y cómo esta se divide de acuerdo con el tipo de manga. Es importante tener en cuenta que, a mayor amplitud de la prenda, se debe realizar una menor división. A continuación, se relaciona un ejemplo:
 
     .row.justify-content-center.mb-4
       .col-12.col-md-10
           img(src="@/assets/curso/tema2/img08.svg")
 
-    p.mb-4 Sin embargo, en este caso se sugiere trabajar con otra fórmula, la cual indica, por su comportamiento, que quedará con menor estructura y mayor comodidad sobre el cuerpo. Para este caso, se debe trabajar con sumatoria de acuerdo al tipo de camisa requerida. En el caso de las cabezas de mangas deducidas para las camisas clásica y #[em Slim fit] se sugiere trabajar con:
+    p.mb-4 Sin embargo, en este caso se sugiere trabajar con otra fórmula, la cual indica, por su comportamiento, que quedará con menor estructura y mayor comodidad sobre el cuerpo. Para este caso, se debe trabajar con sumatoria de acuerdo al tipo de camisa requerida. En el caso de las cabezas de mangas deducidas para las camisas clásicas y #[em Slim fit] se sugiere trabajar con:
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4.col-sm-6.col-10.p-1
@@ -123,7 +123,7 @@
         .tarjeta.verde-clarito.p-4.p-md-3
           .row.justify-content-center
             .col-8
-              img(src="@/assets/curso/tema2/img12.svg")
+              img(src="@/assets/curso/tema2/img12.svg", alt="En la figura se expone una ilustración de una portañuela, que es una parte de la manga de una camisa, que debe estar superpuesta sobre la manga, con un detalle de costura visible. También se observa un botón, lo que indica que esta portañuela tiene una función de cierre o ajuste. La representación sugiere que es una guía para la confección de esta pieza específica de una prenda, mostrando cómo se vería en una manga ya ensamblada. ")
         .tarjeta.color-primario.p-4.p-md-3
           p 
             strong Fuente: 
@@ -150,19 +150,19 @@
     figure.mb-4
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/cfkxQlf6Vfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Leyenda del video
+      figcaption Video. Trazo de cuellos generalidades y comportamientos
     .row.justify-content-center.mb-4
       .col-12.col-md-6.mb-4.mb-md-0
         .tarjeta.color-primario.p-4.p-md-3
           .h4 Figura 6
           p Manga #[em Slim fit]
         .tarjeta.verde-clarito
-          img(src="@/assets/curso/tema2/img13.png")
+          img(src="@/assets/curso/tema2/img13.png", alt="Se describe un diseño detallado de las proporciones y medidas específicas para confeccionar una manga con un corte ajustado, característico del estilo slim fit. Las anotaciones indican las dimensiones y puntos de referencia para el largo de la manga, el ancho superior e inferior, y el contorno del puño. Las líneas rectas y angulares definen la forma y la estructura necesarias para lograr el ajuste estrecho que define una manga slim fit, mientras que los números y marcas proporcionan una guía para cortar y ensamblar la pieza correctamente.")
     
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/VMJYcQqIKBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Leyenda del video
+      figcaption Video. Trazo de manga, puño y cuello camisa clásica y #[em slim fit]
     hr
     separador
     #t_2_4.titulo-segundo

@@ -112,7 +112,7 @@ export default {
           },
           {
             numero: '3.3',
-            titulo: 'Trazo del pantalón tipo jean slim fit',
+            titulo: 'Trazo del pantalón tipo <i>jean slim fit</i>',
             hash: 't_3_3',
           },
         ],
@@ -120,15 +120,16 @@ export default {
     ],
     subMenu: [
       {
+        nombreRuta: 'sintesis',
+        icono: 'fas fa-sitemap',
+        titulo: 'Sintesis',
+        desarrolloContenidos: true,
+      },
+      {
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'sintesis',
-        icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
       },
       {
         nombreRuta: 'glosario',
@@ -144,6 +145,11 @@ export default {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
+      },
+      {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/CF5_842200_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -283,7 +289,7 @@ export default {
         'abertura terminada en la parte delantera, las mangas o el escote, una tapeta generalmente apoya botones y ojales.',
     },
     {
-      termino: 'Slim fit',
+      termino: '<i>Slim fit</i>',
       significado: 'pantalón ajustado.',
     },
   ],
