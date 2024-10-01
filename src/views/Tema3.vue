@@ -80,7 +80,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p #[b Manual de patronaje básico e interpretación de diseños] 
-                    span Conocimiento sobre la creación de molde base inferior masculino (ver página 78).
+                    span Conocimiento sobre la creación de molde base inferior masculino (ver página 81 y 82).
                 .col-sm-auto
                   a.boton.color-secundario.texto-blanco(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
                     span Descargar
@@ -124,7 +124,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p #[b Manual de patronaje básico e interpretación de diseños] 
-                    span Conoce sobre la creación del trazo del pantalón clásico masculino (ver página 79).
+                    span Conoce sobre la creación del trazo del pantalón clásico masculino (ver página 83).
                 .col-sm-auto
                   a.boton.color-secundario.texto-blanco(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
                     span Descargar

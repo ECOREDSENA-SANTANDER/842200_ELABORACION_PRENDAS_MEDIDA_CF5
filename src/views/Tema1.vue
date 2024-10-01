@@ -68,7 +68,7 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     strong Manual de patronaje básico
-                    .text-small Conoce la tabla de medidas estandarizada según estudio antropométrico masculino (ver página 64).
+                    .text-small Conoce la tabla de medidas estandarizada según estudio antropométrico masculino (ver página 67).
                   .col-sm-auto
                     a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Manual_patronaje_basico.pdf')" target="_blank")
                       span Descargar
@@ -101,7 +101,7 @@
                     p #[b Siglo XX moda masculina] 
                       span.text-small Conoce la evolución del vestuario masculino en la línea del tiempo por medio de un análisis de tipologías y su relación con la forma, el color y el estilo, ayudando a comprender por qué el hombre se viste de una manera específica.
                   .col-sm-auto
-                    a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Anexo1_Siglo_XX_Moda_Masculina.pdf')" target="_blank")
+                    a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Siglo_XX_Moda_Masculina.pdf')" target="_blank")
                       span Descargar
                       i.fas.fa-download
     
@@ -127,7 +127,7 @@
                           strong Sociología y cultura en la moda masculina
                           p Conoce los personajes a través de la historia que han aportado al vestuario masculino y nuevos influenciadores del clóset para los hombres.
                         .col-sm-auto
-                          a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Anexo2_ Sociología_Cultura_Moda_Masculina.pdf')" target="_blank")
+                          a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Sociología_Cultura_Moda_Masculina.pdf')" target="_blank")
                             span Descargar
                             i.fas.fa-download
             .col-12.col-md-6.mb-md-0.col-lg-3
@@ -155,7 +155,7 @@
                           strong Estilo masculino
                           p Conoce la guía básica como recurso de acompañamiento y asesoría para clientes masculinos, desde su personalidad hasta los cortes y colores apropiados.
                         .col-sm-auto
-                          a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Anexo3_Estilo_Masculino.pdf')" target="_blank")
+                          a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Estilo_Masculino.pdf')" target="_blank")
                             span Descargar
                             i.fas.fa-download
             .col-12.col-md-6.mb-4.mb-md-0.col-lg-3
@@ -305,7 +305,7 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h6 Manual de patronaje básico e interpretación de diseños
-                    p.text-small Conoce el esquema del patrón base masculino clásico y #[em Slim fit] (ver páginas 65 a 67).
+                    p.text-small Conoce el esquema del patrón base masculino clásico y #[em Slim fit] (ver páginas 71).
                   .col-sm-auto
                     a.boton.color-secundario.texto-blanco(:href="obtenerLink('downloads/Manual_patronaje_basico.pdf')" target="_blank")
                       span Descargar

@@ -184,13 +184,19 @@ export default {
     },
     {
       referencia: 'SENA. (2021). Estilo masculino. SENA.',
+      link:
+        'https://ecoredsena-santander.github.io/842200_ELABORACION_PRENDAS_MEDIDA_CF5/downloads/Anexo3_Estilo_Masculino.pdf',
     },
     {
       referencia: 'SENA. (2021). Siglo XX Moda Masculina. SENA.',
+      link:
+        'https://ecoredsena-santander.github.io/842200_ELABORACION_PRENDAS_MEDIDA_CF5/downloads/Anexo2_%20Sociolog%C3%ADa_Cultura_Moda_Masculina.pdf',
     },
     {
       referencia:
         'SENA. (2021). Sociología y cultura en la moda masculina. SENA.',
+      link:
+        'https://ecoredsena-santander.github.io/842200_ELABORACION_PRENDAS_MEDIDA_CF5/downloads/Anexo1_Siglo_XX_Moda_Masculina.pdf',
     },
     {
       referencia:
@@ -305,7 +311,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de línea de producción',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -315,39 +321,39 @@ export default {
         {
           nombre: 'Leidy Johana Velásquez Hernández',
           cargo: 'Experta temática',
-          centro: 'Regional Antioquía - Diseño, Confección y Moda',
+          centro: 'Diseño, Confección y Moda - Regional Antioquía',
         },
         {
           nombre: 'Paola Angélica Castro Salazar',
           cargo: 'Experta temática',
-          centro: 'Regional Antioquía - Diseño, Confección y Moda',
+          centro: 'Diseño, Confección y Moda - Regional Antioquía',
         },
         {
           nombre: 'Paula Andrea Taborda Ortiz ',
           cargo: 'Diseñadora instruccional ',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Vilma Lucía Perilla Méndez',
           cargo: 'Revisora metodológica y pedagógica.',
-          centro: 'Regional Distrito Capital – centro de Gestión Industrial ',
+          centro: 'centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesor pedagógico',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'José Gabriel Ortiz Abella Carolina Coca Salazar',
           cargo: 'Corrector de estilo ',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica – Regional Distrito Capital ',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
         {
           nombre: 'Sandra Paola Morales Paez',
           cargo: 'Evaluadora instruccional ',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -357,22 +363,22 @@ export default {
         {
           nombre: 'Julián Fernando Vanegas Vera',
           cargo: 'Diseñador web',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Leonardo Castellanos Rodríguez',
           cargo: 'Desarrolladora <i>full-stack</i>',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
           cargo: 'Desarrolladora <i>full-stack</i> Junior',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'María Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -380,14 +386,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Yineth Ibette Gonzalez Quintero',
+          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validadora de recursos educativos digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },

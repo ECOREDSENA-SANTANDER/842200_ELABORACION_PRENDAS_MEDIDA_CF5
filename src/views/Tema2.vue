@@ -90,7 +90,7 @@
         .tarjeta.color-acento-contenido.p-4.p-md-5
           .row.justify-content-center.mb-4
             .col-6.col-lg-9
-              img(src="@/assets/curso/tema2/img09.svg")
+              img(src="@/assets/curso/tema2/img09.svg", alt="La imagen presenta dos tipos de mangas de cabeza, que se distinguen por la forma de la curva en la parte superior y su caída. En el lado izquierdo, la manga tiene una curva más pronunciada, lo que indica una caída más estructurada y ajustada. En el lado derecho, la curva es más suave, lo que permite una caída más relajada y menos ajustada. Los elementos de ajuste en la parte inferior señalan diferencias en la apertura de la manga, que afectarán su ajuste en el brazo")
           p.text-center Cabeza de manga camisa clásica
           .h2.text-center =
           p.text-center sisa delantera + sisa posterior / 6 + 2
