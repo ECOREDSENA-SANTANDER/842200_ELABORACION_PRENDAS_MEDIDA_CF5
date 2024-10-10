@@ -77,11 +77,7 @@
               img(src="@/assets/curso/tema2/img07.svg")
           p En este caso se identifican cabezas de manga muy cortas lo cual indica que son prendas que quedarán desestructuradas u holgadas sobre el cuerpo. 
 
-    p.mb-4 Dentro de los ejercicios anteriores de cabezas de manga, se identifica la generalidad de cabeza de manga deducida y cómo esta se divide de acuerdo con el tipo de manga. Es importante tener en cuenta que, a mayor amplitud de la prenda, se debe realizar una menor división. A continuación, se relaciona un ejemplo:
-
-    .row.justify-content-center.mb-4
-      .col-12.col-md-10
-          img(src="@/assets/curso/tema2/img08.svg")
+    p.mb-4 Dentro de los ejercicios anteriores de cabezas de manga, se identifica la generalidad de cabeza de manga deducida y cómo esta se divide de acuerdo con el tipo de manga. Es importante tener en cuenta que, a mayor amplitud de la prenda, se debe realizar una menor división. 
 
     p.mb-4 Sin embargo, en este caso se sugiere trabajar con otra fórmula, la cual indica, por su comportamiento, que quedará con menor estructura y mayor comodidad sobre el cuerpo. Para este caso, se debe trabajar con sumatoria de acuerdo al tipo de camisa requerida. En el caso de las cabezas de mangas deducidas para las camisas clásicas y #[em Slim fit] se sugiere trabajar con:
 
@@ -184,7 +180,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/YgPcDIMHU8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Leyenda del video
+      figcaption Video. Trazo de prendas superiores - camisa
     
 
 </template>

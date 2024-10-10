@@ -94,7 +94,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/plAxddvr3fE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Leyenda del video
+      figcaption Video. Base inferior de pantalón masculino
     hr
     separador
     #t_3_2.titulo-segundo
@@ -124,7 +124,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p #[b Manual de patronaje básico e interpretación de diseños] 
-                    span Conoce sobre la creación del trazo del pantalón clásico masculino (ver página 83).
+                    span Conoce sobre la creación del trazo del pantalón clásico masculino (ver página 82).
                 .col-sm-auto
                   a.boton.color-secundario.texto-blanco(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
                     span Descargar
@@ -134,7 +134,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/M-vqfL1whC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Leyenda del video
+      figcaption Video. Trazo del pantalón clásico masculino
     hr
     separador
     #t_3_3.titulo-segundo
@@ -155,7 +155,7 @@
     figure.mb-4
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/HQP3N-Wi8Ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Leyenda del video
+      figcaption Video. Trazo de pantalón tipo jean #[em slim fit]
     .py-2
     .row.align-items-center.justify-content-center(data-aos="flip-up")
       .col-lg-10 
@@ -167,7 +167,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p #[b Manual de patronaje básico e interpretación de diseños.] 
-                    span Conoce sobre la creación del trazo del pantalón tipo #[em jean] #[em Slim fit] masculino (ver página 80).
+                    span Conoce sobre la creación del trazo del pantalón tipo #[em jean] #[em Slim fit] masculino (ver página 83).
                 .col-sm-auto
                   a.boton.color-secundario.texto-blanco(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CDC8FDE9468D98E37FFD127332113A29?sequence=1" target="_blank")
                     span Descargar

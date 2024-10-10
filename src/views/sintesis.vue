@@ -8,7 +8,7 @@
       .row.justify-content-center
         .col-lg-12.mb-5
           figure
-            img(src="@/assets/curso/sintesis.svg", alt=" La imagen presenta una síntesis del proceso de elaboración de modelos masculinos. Se estructura en tres grandes áreas: La forma y lo masculino, que abarca la relación entre la morfología masculina, la sociología y la cultura en la moda masculina. Patrones básicos superiores masculinos, donde se trabaja con la camisa, las mangas y los cuellos, así como sus variaciones.Patrones básicos inferiores masculinos, que incluye el pantalón base, el pantalón clásico y las variaciones tipo slim fit.")
+            img(src="@/assets/curso/sintesis.svg", alt=" La imagen presenta una síntesis del proceso de elaboración de modelos masculinos. Se estructura en tres grandes áreas: La forma y lo masculino, que abarca la relación entre la morfología masculina, la sociología y la cultura en la moda masculina. Patrones básicos superiores masculinos, donde se trabaja con la camisa, las mangas y los cuellos, así como sus variaciones. Patrones básicos inferiores masculinos, que incluye el pantalón base, el pantalón clásico y las variaciones tipo slim fit.")
         .col-auto
           a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
             .anexo__icono
