@@ -184,19 +184,16 @@ export default {
     },
     {
       referencia: 'SENA. (2021). Estilo masculino. SENA.',
-      link:
-        'https://ecoredsena-santander.github.io/842200_ELABORACION_PRENDAS_MEDIDA_CF5/downloads/Anexo3_Estilo_Masculino.pdf',
+      link: '',
     },
     {
       referencia: 'SENA. (2021). Siglo XX Moda Masculina. SENA.',
-      link:
-        'https://ecoredsena-santander.github.io/842200_ELABORACION_PRENDAS_MEDIDA_CF5/downloads/Anexo2_%20Sociolog%C3%ADa_Cultura_Moda_Masculina.pdf',
+      link: '',
     },
     {
       referencia:
         'SENA. (2021). Sociología y cultura en la moda masculina. SENA.',
-      link:
-        'https://ecoredsena-santander.github.io/842200_ELABORACION_PRENDAS_MEDIDA_CF5/downloads/Anexo1_Siglo_XX_Moda_Masculina.pdf',
+      link: '',
     },
     {
       referencia:
@@ -230,7 +227,7 @@ export default {
     },
     {
       referencia: 'SENA. (s.f.). Fashion Snoops.',
-      link: 'https://www-fashionsnoops-com.bdigital.sena.edu.co/Default.aspx',
+      link: '',
     },
   ],
   glosario: [
@@ -321,22 +318,25 @@ export default {
         {
           nombre: 'Leidy Johana Velásquez Hernández',
           cargo: 'Experta temática',
-          centro: 'Diseño, Confección y Moda - Regional Antioquía',
+          centro:
+            'Centro De Formación En Diseño, Confección Y Moda - Regional Antioquía',
         },
         {
           nombre: 'Paola Angélica Castro Salazar',
           cargo: 'Experta temática',
-          centro: 'Diseño, Confección y Moda - Regional Antioquía',
+          centro:
+            'Centro De Formación En Diseño, Confección Y Moda - Regional Antioquía',
         },
         {
           nombre: 'Paula Andrea Taborda Ortiz ',
           cargo: 'Diseñadora instruccional ',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro:
+            'Centro De Formación En Diseño, Confección Y Moda - Regional Antioquía',
         },
         {
           nombre: 'Vilma Lucía Perilla Méndez',
           cargo: 'Revisora metodológica y pedagógica.',
-          centro: 'centro de Gestión Industrial - Regional Distrito Capital',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
@@ -348,7 +348,7 @@ export default {
           nombre: 'José Gabriel Ortiz Abella Carolina Coca Salazar',
           cargo: 'Corrector de estilo ',
           centro:
-            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Sandra Paola Morales Paez',
