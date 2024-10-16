@@ -67,10 +67,10 @@
               .col 
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    strong Manual de patronaje básico
+                    strong Manual de patronaje básico e interpretación de diseños
                     .text-small Conoce la tabla de medidas estandarizada según estudio antropométrico masculino (ver página 67).
                   .col-sm-auto
-                    a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Manual_patronaje_basico.pdf')" target="_blank")
+                    a.boton.color-secundario.texto-blanco(:href="obtenerLink('/downloads/Manual_de_patronaje_básico_e_interpretación_de_diseños.pdf')" target="_blank")
                       span Descargar
                       i.fas.fa-download
     
