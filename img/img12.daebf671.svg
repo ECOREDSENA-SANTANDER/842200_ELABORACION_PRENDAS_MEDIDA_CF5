@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="365.35" height="452.251" viewBox="0 0 365.35 452.251">
+  <defs>
+    <filter id="Trazado_107097" x="76.54" y="329.198" width="219.057" height="123.053" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.669" dy="2.835" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#282825" flood-opacity="0.529"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_107098" x="0" y="0" width="365.35" height="364.648" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.669" dy="2.835" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-color="#282825" flood-opacity="0.529"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_107099" x="251.771" y="132.04" width="50.698" height="234.198" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.669" dy="2.835" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-3"/>
+      <feFlood flood-color="#282825" flood-opacity="0.529"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_56575" data-name="Grupo 56575" transform="translate(-220.308 -73.301)">
+    <path id="Trazado_107096" data-name="Trazado 107096" d="M562.685,420.011l4.232,87.947s-21.634,16.461-56.906,15.049l2.821-97.353Z" transform="translate(-19.916 -23.664)" fill="#faf7cc"/>
+    <g transform="matrix(1, 0, 0, 1, 220.31, 73.3)" filter="url(#Trazado_107097)">
+      <path id="Trazado_107097-2" data-name="Trazado 107097" d="M304.368,527.1s105.82,15.049,125.573,12.228,60.205.94,74.546-16.461c0,0,6.74-1.418,2.584-91.24l-202.7,7.525Z" transform="translate(-226 -97.77)" fill="#faf7cc"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 220.31, 73.3)" filter="url(#Trazado_107098)">
+      <path id="Trazado_107098-2" data-name="Trazado 107098" d="M572.489,95.58S452.9,100.751,445.147,101.4s-106.01-23.27-112.473-22.624-24.563-7.757-110.535,18.1c0,0,8.861,137.927,14.867,183.578,3.942,29.965,19.169,104.856,29.222,117.307,5.515,6.83,13.44,21.669,29.6,28.133,0,0,172.588,3.879,202.323,0l.646-9.049s40.077-1.94,42.662-9.7c0,0,20.039-12.281,19.393-136.391Z" transform="translate(-220.31 -73.3)" fill="#faf7cc"/>
+    </g>
+    <circle id="Elipse_4095" data-name="Elipse 4095" cx="13.349" cy="13.349" r="13.349" transform="translate(452.76 453.738)" fill="#cca275"/>
+    <circle id="Elipse_4096" data-name="Elipse 4096" cx="1.883" cy="1.883" r="1.883" transform="translate(459.708 462.539)" fill="#1e1e1e"/>
+    <circle id="Elipse_4097" data-name="Elipse 4097" cx="1.883" cy="1.883" r="1.883" transform="translate(470.113 462.539)" fill="#1e1e1e"/>
+    <rect id="Rectángulo_6445" data-name="Rectángulo 6445" width="9.053" height="2.956" rx="1.291" transform="translate(462.405 462.879)" fill="#fcface"/>
+    <g transform="matrix(1, 0, 0, 1, 220.31, 73.3)" filter="url(#Trazado_107099)">
+      <path id="Trazado_107099-2" data-name="Trazado 107099" d="M497.064,437.575l-2.822-201.049,12.228-14.58,17.4,11.287,3.06,193.567-.646,9.05Z" transform="translate(-239.13 -83.26)" fill="#faf7cc" stroke="#faf7cc" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <path id="Trazado_107100" data-name="Trazado 107100" d="M497.064,437.575l-2.822-201.049,12.228-14.58,17.4,11.287,3.06,193.567-.646,9.05Z" transform="translate(-18.825 -9.961)" fill="none" stroke="#56543c" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="4"/>
+    <path id="Trazado_107101" data-name="Trazado 107101" d="M497.884,285.863h23.929" transform="translate(-19.077 -14.383)" fill="none" stroke="#56543c" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="4"/>
+    <path id="Trazado_107102" data-name="Trazado 107102" d="M497.884,289.9h23.929" transform="translate(-19.077 -14.662)" fill="none" stroke="#56543c" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="4"/>
+  </g>
+</svg>
